@@ -1,0 +1,82 @@
+{
+  "question": "What was JPMorgan Chase total net revenue in fiscal 2024?",
+  "strategy": "fixed",
+  "reranking": true,
+  "answer": "JPMorgan Chase total net revenue in fiscal year 2024 was $177,556 million [S1]. The currency is not specified, but the units are in millions of dollars. The report year is 2025, with comparative data for 2024 [S1].",
+  "sources": [
+    {
+      "id": "9a9ed80127b3716a96b13b20",
+      "score": 0.78360474,
+      "text": "Year ended December 31,\n(in millions, except per share and 28 for additional information.\ndata and ratios) 2025 2024 Change\nComparisons noted in the sections below are for the\nSelected income statement full year of 2025 versus the full year of 2024, unless\ndata\notherwise specified.\nNoninterest revenue $ 87,004 $ 84,973 2%\nFirmwide overview\nNet interest income 95,443 92,583 3\nJPMorganChase reported net income of $57.0 billion\nTotal net revenue 182,447 177,556 3",
+      "metadata": {
+        "_id": "9a9ed80127b3716a96b13b20",
+        "_score": 0.78360474,
+        "chunk_text": "Year ended December 31,\n(in millions, except per share and 28 for additional information.\ndata and ratios) 2025 2024 Change\nComparisons noted in the sections below are for the\nSelected income statement full year of 2025 versus the full year of 2024, unless\ndata\notherwise specified.\nNoninterest revenue $ 87,004 $ 84,973 2%\nFirmwide overview\nNet interest income 95,443 92,583 3\nJPMorganChase reported net income of $57.0 billion\nTotal net revenue 182,447 177,556 3",
+        "company": "JPMorgan Chase & Co.",
+        "document_id": "jpm-2025-annual",
+        "location_json": "{\"pdf_page\": 79}",
+        "report_fiscal_year": 2025.0,
+        "source_url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2025.pdf",
+        "title": "jpm-2025-annual"
+      },
+      "rerank_score": 0.9990918636322021,
+      "citation_id": "S1",
+      "context_text": "[S1] JPMorgan Chase & Co. Report year: 2025.0 Location: {\"pdf_page\": 79}\nYear ended December 31,\n(in millions, except per share and 28 for additional information.\ndata and ratios) 2025 2024 Change\nComparisons noted in the sections below are for the\nSelected income statement full year of 2025 versus the full year of 2024, unless\ndata\notherwise specified.\nNoninterest revenue $ 87,004 $ 84,973 2%\nFirmwide overview\nNet interest income 95,443 92,583 3\nJPMorganChase reported net income of $57.0 billion\nTotal net revenue 182,447 177,556 3"
+    },
+    {
+      "id": "7a9e67ea20daf97350e55fa8",
+      "score": 0.7819319,
+      "text": "(in millions) 2023 2022\nNoninterest revenue $ 65,816 $ 66,510\nNet interest income 90,856 71,005\nNet income 48,665 41,089\nJPMorgan Chase & Co./2024 Form 10-K 321",
+      "metadata": {
+        "_id": "7a9e67ea20daf97350e55fa8",
+        "_score": 0.7819319,
+        "chunk_text": "(in millions) 2023 2022\nNoninterest revenue $ 65,816 $ 66,510\nNet interest income 90,856 71,005\nNet income 48,665 41,089\nJPMorgan Chase & Co./2024 Form 10-K 321",
+        "company": "JPMorgan Chase & Co.",
+        "document_id": "jpm-2024-annual",
+        "location_json": "{\"pdf_page\": 355}",
+        "report_fiscal_year": 2024.0,
+        "source_url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2024.pdf",
+        "title": "jpm-2024-annual"
+      },
+      "rerank_score": 0.9988051652908325,
+      "citation_id": "S2",
+      "context_text": "[S2] JPMorgan Chase & Co. Report year: 2024.0 Location: {\"pdf_page\": 355}\n(in millions) 2023 2022\nNoninterest revenue $ 65,816 $ 66,510\nNet interest income 90,856 71,005\nNet income 48,665 41,089\nJPMorgan Chase & Co./2024 Form 10-K 321"
+    },
+    {
+      "id": "660026fc02791638898bb22e",
+      "score": 0.747978,
+      "text": "JPMorgan Chase & Co.\n270 Park Avenue, New York, NY 10017-2070\nNYSE symbol: JPM\nwww.jpmorganchase.com\nJPMORGANCHASE REPORTS THIRD-QUARTER 2026 NET INCOME OF $15.3 BILLION ($5.57 PER SHARE),\nNET INCOME OF $15.8 BILLION ($5.75 PER SHARE) EXCLUDING A SIGNIFICANT ITEM\nTHIRD-QUARTER 2026 RESULTS 1\nCET1 Capital Ratios3 Std. RWA3 $2.2T\n17%\nROE\nStd. 13.9% | Adv. 14.1% Cash and marketable securities4 $1.5T\n20%\nROTCE2\nTotal Loss-Absorbing Capacity3 $599B Average loans $1.6T",
+      "metadata": {
+        "_id": "660026fc02791638898bb22e",
+        "_score": 0.747978,
+        "chunk_text": "JPMorgan Chase & Co.\n270 Park Avenue, New York, NY 10017-2070\nNYSE symbol: JPM\nwww.jpmorganchase.com\nJPMORGANCHASE REPORTS THIRD-QUARTER 2026 NET INCOME OF $15.3 BILLION ($5.57 PER SHARE),\nNET INCOME OF $15.8 BILLION ($5.75 PER SHARE) EXCLUDING A SIGNIFICANT ITEM\nTHIRD-QUARTER 2026 RESULTS 1\nCET1 Capital Ratios3 Std. RWA3 $2.2T\n17%\nROE\nStd. 13.9% | Adv. 14.1% Cash and marketable securities4 $1.5T\n20%\nROTCE2\nTotal Loss-Absorbing Capacity3 $599B Average loans $1.6T",
+        "company": "JPMorgan Chase & Co.",
+        "document_id": "jpm-2026-q3-earnings",
+        "location_json": "{\"pdf_page\": 1}",
+        "report_fiscal_year": 2026.0,
+        "source_url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2026/3rd-quarter/6c1f8114-1be4-4174-8292-f75bbb59bc21.pdf",
+        "title": "jpm-2026-q3-earnings"
+      },
+      "rerank_score": 0.9976722598075867,
+      "citation_id": "S3",
+      "context_text": "[S3] JPMorgan Chase & Co. Report year: 2026.0 Location: {\"pdf_page\": 1}\nJPMorgan Chase & Co.\n270 Park Avenue, New York, NY 10017-2070\nNYSE symbol: JPM\nwww.jpmorganchase.com\nJPMORGANCHASE REPORTS THIRD-QUARTER 2026 NET INCOME OF $15.3 BILLION ($5.57 PER SHARE),\nNET INCOME OF $15.8 BILLION ($5.75 PER SHARE) EXCLUDING A SIGNIFICANT ITEM\nTHIRD-QUARTER 2026 RESULTS 1\nCET1 Capital Ratios3 Std. RWA3 $2.2T\n17%\nROE\nStd. 13.9% | Adv. 14.1% Cash and marketable securities4 $1.5T\n20%\nROTCE2\nTotal Loss-Absorbing Capacity3 $599B Average loans $1.6T"
+    }
+  ],
+  "candidate_ids": [
+    "9a9ed80127b3716a96b13b20",
+    "7a9e67ea20daf97350e55fa8",
+    "6654fb90ca719af90a3d9b89",
+    "4d924c51572845945d3fe2c1",
+    "abbbb8ca07e459e92cd8d0d6",
+    "ad3a09187c812e0eeb0f73c4",
+    "6c8f25bd2f2317d0be3c247d",
+    "660026fc02791638898bb22e",
+    "06eebf022d36d29aef8e690e",
+    "cccaf57cfe3e48d094a828d6"
+  ],
+  "candidate_k": 10,
+  "final_k": 3,
+  "context_token_budget": 4000,
+  "retrieval_seconds": 0.766439500002889,
+  "elapsed_seconds": 5.950820375001058
+}

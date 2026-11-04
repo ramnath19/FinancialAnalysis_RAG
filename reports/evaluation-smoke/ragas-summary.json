@@ -1,0 +1,18 @@
+[
+  {
+    "configuration": "fixed-direct",
+    "scores": {
+      "faithfulness": 0.75,
+      "llm_context_precision_with_reference": 0.99999999995,
+      "context_recall": 1.0
+    }
+  },
+  {
+    "configuration": "fixed-rerank",
+    "scores": {
+      "faithfulness": 1.0,
+      "llm_context_precision_with_reference": 0.99999999995,
+      "context_recall": 1.0
+    }
+  }
+]

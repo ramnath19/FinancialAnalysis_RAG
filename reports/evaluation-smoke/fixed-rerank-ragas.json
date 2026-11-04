@@ -1,0 +1,15 @@
+[
+  {
+    "user_input":"What was JPMorgan Chase total net revenue in 2024?",
+    "retrieved_contexts":[
+      "[S1] JPMorgan Chase & Co. Report year: 2024.0 Location: {\"pdf_page\": 355}\n(in millions) 2023 2022\nNoninterest revenue $ 65,816 $ 66,510\nNet interest income 90,856 71,005\nNet income 48,665 41,089\nJPMorgan Chase & Co.\/2024 Form 10-K 321",
+      "[S2] JPMorgan Chase & Co. Report year: 2025.0 Location: {\"pdf_page\": 79}\nYear ended December 31,\n(in millions, except per share and 28 for additional information.\ndata and ratios) 2025 2024 Change\nComparisons noted in the sections below are for the\nSelected income statement full year of 2025 versus the full year of 2024, unless\ndata\notherwise specified.\nNoninterest revenue $ 87,004 $ 84,973 2%\nFirmwide overview\nNet interest income 95,443 92,583 3\nJPMorganChase reported net income of $57.0 billion\nTotal net revenue 182,447 177,556 3",
+      "[S3] JPMorgan Chase & Co. Report year: 2024.0 Location: {\"pdf_page\": 323}\n$32.7 billion in 2027, $93.4 billion in 2028 and $26.9 billion in 2029.\nJPMorgan Chase & Co.\/2024 Form 10-K 289"
+    ],
+    "response":"JPMorgan Chase total net revenue in 2024 was $177,556 million [S2]. The reporting period is the year ended December 31, 2024. The currency is not specified, but the units are in millions of dollars.",
+    "reference":"177,556 million USD.",
+    "faithfulness":1.0,
+    "llm_context_precision_with_reference":1.0,
+    "context_recall":1.0
+  }
+]

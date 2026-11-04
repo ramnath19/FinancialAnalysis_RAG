@@ -1,0 +1,184 @@
+[
+  {
+    "user_input":"What was JPMorgan Chase total net revenue in 2024?",
+    "retrieved_contexts":[
+      "[S1] JPMorgan Chase & Co. Report year: 2024.0 Location: {\"pdf_page\": 5}\nThere is much more\ndetail on all of this in section three. 2024 was another strong year for JPMorganChase, with our firm generating\nrecord revenue for the seventh consecutive year, as well as setting numerous\nrecords in each of our lines of business. We earned revenue in 2024 of\n$180.6 billion1 and net income of $58.5 billion, with return on tangible common\nequity (ROTCE) of 20%2, reflecting strong underlying performance across our\nbusinesses. We also increased our quarterly common dividend of $1.05 per\nshare to $1.15 per share in the first quarter of 2024 \u2013 and again to $1.25 per\nshare in the third quarter of 2024 \u2013 while continuing to reinforce our fortress\nbalance sheet. We grew market share in several of our businesses and contin-\nued to make significant investments in products, people and technology while\nexercising strict risk disciplines. Throughout the year, we demonstrated the power of our investment philosophy\nand guiding principles, as well as the value of being there for clients \u2013 as we\nalways are \u2013 in both good times and bad times. The result was continued\nbroad healthy growth across the firm.",
+      "[S2] JPMorgan Chase & Co. Report year: 2024.0 Location: {\"pdf_page\": 307}\nJPMorgan Chase & Co.\/2024 Form 10-K 273",
+      "[S3] JPMorgan Chase & Co. Report year: 2024.0 Location: {\"pdf_page\": 352}\n318 JPMorgan Chase & Co.\/2024 Form 10-K"
+    ],
+    "response":"JPMorgan Chase total net revenue in 2024 was $180.6 billion [S1]. The reporting period is 2024 and the currency is not specified, but is likely USD given the company is based in the United States. The units are in billions of dollars.",
+    "reference":"177,556 million USD.",
+    "faithfulness":0.8,
+    "llm_context_precision_with_reference":1.0,
+    "context_recall":0.0
+  },
+  {
+    "user_input":"What was JPMorgan Chase net income in 2024?",
+    "retrieved_contexts":[
+      "[S1] JPMorgan Chase & Co. Report year: 2024.0 Location: {\"pdf_page\": 327}\nJPMorgan Chase & Co.\/2024 Form 10-K 293",
+      "[S2] JPMorgan Chase & Co. Report year: 2024.0 Location: {\"pdf_page\": 309}\nJPMorgan Chase & Co.\/2024 Form 10-K 275",
+      "[S3] JPMorgan Chase & Co. Report year: 2024.0 Location: {\"pdf_page\": 155}\nJPMorgan Chase & Co.\/2024 Form 10-K 121"
+    ],
+    "response":"I don't have enough evidence to answer this question.",
+    "reference":"58,471 million USD.",
+    "faithfulness":0.0,
+    "llm_context_precision_with_reference":1.0,
+    "context_recall":0.0
+  },
+  {
+    "user_input":"What was JPMorgan Chase net interest income in 2024?",
+    "retrieved_contexts":[
+      "[S1] JPMorgan Chase & Co. Report year: 2024.0 Location: {\"pdf_page\": 295}\n(b) Interest income on nonaccrual loans recognized on a cash basis was $51 million and $19 million for the years ended December 31, 2024 and\n2023, respectively. JPMorgan Chase & Co.\/2024 Form 10-K 261",
+      "[S2] JPMorgan Chase & Co. Report year: 2025.0 Location: {\"pdf_page\": 79}\ndata and ratios) 2025 2024 Change\nComparisons noted in the sections below are for the\nSelected income statement full year of 2025 versus the full year of 2024, unless\ndata\notherwise specified. Noninterest revenue $ 87,004 $ 84,973 2%\nFirmwide overview\nNet interest income 95,443 92,583 3\nJPMorganChase reported net income of $57.0 billion\nTotal net revenue 182,447 177,556 3\nfor 2025, down 2%, earnings per share of $20.02, ROE\nTotal noninterest expense 95,640 91,797 4 of 17% and ROTCE of 20%. Pre-provision profit 86,807 85,759 1 \u2022 Total net revenue was $182.4 billion, up 3%,\nProvision for credit losses 14,212 10,678 33 reflecting:\nNet income 57,048 58,471 (2) \u2013 Net interest income (\u201cNII\u201d) of $95.4 billion, up 3%,\ndriven by higher Markets net interest income,\nDiluted earnings per share 20.02 19.75 1\nhigher revolving balances in Card Services, higher\nSelected ratios and metrics\nwholesale deposit balances, and the impact of\nReturn on common equity 17 % 18 % investment securities activity. These factors were\nlargely offset by deposit margin compression and\nReturn on tangible common\nequity 20 22 the impact of lower rates.",
+      "[S3] JPMorgan Chase & Co. Report year: 2024.0 Location: {\"pdf_page\": 355}\nThe pro forma information is not necessarily indicative of the historical\nresults of operations had the acquisition occurred on January 1, 2022, nor is it indicative of the results of operations in\nfuture periods. YYeeaarr eennddeedd DDeecceemmbbeerr 3311,,\n(in millions) 2023 2022\nNoninterest revenue $ 65,816 $ 66,510\nNet interest income 90,856 71,005\nNet income 48,665 41,089\nJPMorgan Chase & Co.\/2024 Form 10-K 321"
+    ],
+    "response":"JPMorgan Chase net interest income was $92,583 million for the year ended December 31, 2024 [S2]. It was also $90,856 million for the year ended December 31, 2024 [S3].\n\nCompany: JPMorgan Chase & Co.\nReporting period: Year ended December 31, 2024\nCurrency: Not specified, but implied to be millions of US dollars.\nUnits: Millions of dollars.",
+    "reference":"92,583 million USD.",
+    "faithfulness":0.8333333333,
+    "llm_context_precision_with_reference":0.5833333333,
+    "context_recall":1.0
+  },
+  {
+    "user_input":"What were JPMorgan Chase total assets at December 31, 2024?",
+    "retrieved_contexts":[
+      "[S1] JPMorgan Chase & Co. Report year: 2024.0 Location: {\"pdf_page\": 342}\nThe significant\ncomponents of the Firm\u2019s pledged assets were as\nfollows. December 31, (in billions) 2024 2023\nInvestment securities $ 89.6 $ 108.6\nLoans 740.9 681.7\nTrading assets and other 343.9 274.5\nTotal pledged assets $ 1,174.4 $ 1,064.8\n308 JPMorgan Chase & Co.\/2024 Form 10-K",
+      "[S2] JPMorgan Chase & Co. Report year: 2025.0 Location: {\"pdf_page\": 333}\nThe significant\ncomponents of the Firm\u2019s pledged assets were as\nfollows. December 31, (in billions) 2025 2024\nInvestment securities $ 82.7 $ 89.6\nLoans 763.8 740.9\nTrading assets and other 487.1 343.9\nTotal pledged assets $ 1,333.6 $ 1,174.4\nJPMorgan Chase & Co.\/2025 Form 10-K 301",
+      "[S3] JPMorgan Chase & Co. Report year: 2025.0 Location: {\"pdf_page\": 337}\nwere approximately $449 billion, $369 billion and $352 billion at December 31, 2025, 2024 and 2023, respectively. JPMorgan Chase & Co.\/2025 Form 10-K 305"
+    ],
+    "response":"I don't have enough evidence to answer this question. The evidence provides total *pledged* assets, not total assets [S1, S2]. It also provides figures for repurchase agreements [S3], which are not total assets.",
+    "reference":"4,002,814 million USD.",
+    "faithfulness":0.4,
+    "llm_context_precision_with_reference":0.0,
+    "context_recall":0.0
+  },
+  {
+    "user_input":"What were JPMorgan Chase deposits at December 31, 2024?",
+    "retrieved_contexts":[
+      "[S1] JPMorgan Chase & Co. Report year: 2024.0 Location: {\"pdf_page\": 146}\nThe table below shows the loan and deposit balances,\nthe loans-to-deposits ratios, and deposits as a\npercentage of total liabilities, as of December 31, 2024\nand 2023. As of December 31,\n(in billions except ratios) 2024 2023\nDeposits $ 2,406.0 $ 2,400.7\nDeposits as a % of total liabilities 66 % 68 %\nLoans $ 1,348.0 $ 1,323.7\nLoans-to-deposits ratio 56 % 55 %\nThe following table provides a summary of the average balances and average interest rates of JPMorganChase\u2019s\ndeposits for the years ended December 31, 2024, 2023, and 2022. Year ended December 31, AAAvvveeerrraaagggeee bbbaaalllaaannnccceeesss AAAvvveeerrraaagggeee iiinnnttteeerrreeesssttt rrraaattteeesss\n(in millions, except interest rates) 2024 2023 2022 2024 2023 2022\nU.S.",
+      "[S2] JPMorgan Chase & Co. Report year: 2024.0 Location: {\"pdf_page\": 146}\nRefer to Note 17 for additional information on deposits. 112 JPMorgan Chase & Co.\/2024 Form 10-K",
+      "[S3] JPMorgan Chase & Co. Report year: 2024.0 Location: {\"pdf_page\": 157}\nJPMorgan Chase & Co.\/2024 Form 10-K 123"
+    ],
+    "response":"JPMorgan Chase deposits at December 31, 2024 were $2,406.0 billion [S1].\n\nCompany: JPMorgan Chase & Co.\nReporting period: 2024\nCurrency: USD\nUnits: billions",
+    "reference":"2,406,032 million USD.",
+    "faithfulness":0.8,
+    "llm_context_precision_with_reference":1.0,
+    "context_recall":1.0
+  },
+  {
+    "user_input":"What were Apple total net sales in fiscal 2025?",
+    "retrieved_contexts":[
+      "[S1] Apple Inc. Report year: 2025.0 Location: {\"pdf_page\": 32}\nApple Inc. CONSOLIDATED STATEMENTS OF OPERATIONS\n(In millions, except number of shares, which are reflected in thousands, and per-share amounts)\nYears ended\nSeptember 27, September 28, September 30,\n2025 2024 2023\nNet sales:\nProducts $ 307,003 $ 294,866 $ 298,085\nServices 109,158 96,169 85,200\nTotal net sales 416,161 391,035 383,285\nCost of sales:\nProducts 194,116 185,233 189,282\nServices 26,844 25,119 24,855\nTotal cost of sales 220,960 210,352 214,137\nGross margin 195,201 180,683 169,148\nOperating expenses:\nResearch and development 34,550 31,370 29,915\nSelling, general and administrative 27,601 26,097 24,932\nTotal operating expenses 62,151 57,467 54,847\nOperating income 133,050 123,216 114,301\nOther income\/(expense), net (321) 269 (565)\nIncome before provision for income taxes 132,729 123,485 113,736\nProvision for income taxes 20,719 29,749 16,741\nNet income $ 112,010 $ 93,736 $ 96,995\nEarnings per share:\nBasic $ 7.49 $ 6.11 $ 6.16\nDiluted $ 7.46 $ 6.08 $ 6.13\nShares used in computing earnings per share:\nBasic 14,948,500 15,343,783 15,744,231\nDiluted 15,004,697 15,408,095 15,812,547\nSee accompanying Notes to Consolidated Financial Statements. Apple Inc.",
+      "[S2] Apple Inc. Report year: 2024.0 Location: {\"pdf_page\": 32}\nApple Inc. CONSOLIDATED STATEMENTS OF OPERATIONS\n(In millions, except number of shares, which are reflected in thousands, and per-share amounts)\nYears ended\nSeptember 28, September 30, September 24,\n2024 2023 2022\nNet sales:\nProducts $ 294,866 $ 298,085 $ 316,199\nServices 96,169 85,200 78,129\nTotal net sales 391,035 383,285 394,328\nCost of sales:\nProducts 185,233 189,282 201,471\nServices 25,119 24,855 22,075\nTotal cost of sales 210,352 214,137 223,546\nGross margin 180,683 169,148 170,782\nOperating expenses:\nResearch and development 31,370 29,915 26,251\nSelling, general and administrative 26,097 24,932 25,094\nTotal operating expenses 57,467 54,847 51,345\nOperating income 123,216 114,301 119,437\nOther income\/(expense), net 269 (565) (334)\nIncome before provision for income taxes 123,485 113,736 119,103\nProvision for income taxes 29,749 16,741 19,300\nNet income $ 93,736 $ 96,995 $ 99,803\nEarnings per share:\nBasic $ 6.11 $ 6.16 $ 6.15\nDiluted $ 6.08 $ 6.13 $ 6.11\nShares used in computing earnings per share:\nBasic 15,343,783 15,744,231 16,215,963\nDiluted 15,408,095 15,812,547 16,325,819\nSee accompanying Notes to Consolidated Financial Statements. Apple Inc.",
+      "[S3] Apple Inc. Report year: 2024.0 Location: {\"pdf_page\": 39}\nThe Company\u2019s proportion of net sales by disaggregated revenue source was generally consistent for each reportable segment in Note 13, \u201cSegment\nInformation and Geographic Data\u201d for 2024, 2023 and 2022, except in Greater China, where iPhone revenue represented a moderately higher proportion of net\nsales. As of September 28, 2024 and September 30, 2023, the Company had total deferred revenue of $12.8 billion and $12.1 billion, respectively."
+    ],
+    "response":"Apple total net sales in fiscal year 2025 were $416,161 million [S1]. The reporting period is for the years ended September 27, 2025. The currency is not specified, but the units are in millions of dollars [S1].",
+    "reference":"416,161 million USD.",
+    "faithfulness":1.0,
+    "llm_context_precision_with_reference":0.9999999999,
+    "context_recall":1.0
+  },
+  {
+    "user_input":"What was Apple net income in fiscal 2025?",
+    "retrieved_contexts":[
+      "[S1] Apple Inc. Report year: 2025.0 Location: {\"pdf_page\": 33}\nApple Inc. CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME\n(In millions)\nYears ended\nSeptember 27, September 28, September 30,\n2025 2024 2023\nNet income $ 112,010 $ 93,736 $ 96,995\nOther comprehensive income\/(loss):\nChange in foreign currency translation, net of tax (267) 395 (765)\nChange in unrealized gains\/losses on derivative instruments, net of tax:\nChange in fair value of derivative instruments 849 (832) 323\nAdjustment for net (gains)\/losses realized and included in net\nincome (212) (1,337) (1,717)\nTotal change in unrealized gains\/losses on derivative\ninstruments 637 (2,169) (1,394)\nChange in unrealized gains\/losses on marketable debt securities, net of\ntax:\nChange in fair value of marketable debt securities 817 5,850 1,563\nAdjustment for net (gains)\/losses realized and included in net\nincome 414 204 253\nTotal change in unrealized gains\/losses on marketable debt\nsecurities 1,231 6,054 1,816\nTotal other comprehensive income\/(loss) 1,601 4,280 (343)\nTotal comprehensive income $ 113,611 $ 98,016 $ 96,652\nSee accompanying Notes to Consolidated Financial Statements. Apple Inc.",
+      "[S2] Apple Inc. Report year: 2024.0 Location: {\"pdf_page\": 33}\nApple Inc. CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME\n(In millions)\nYears ended\nSeptember 28, September 30, September 24,\n2024 2023 2022\nNet income $ 93,736 $ 96,995 $ 99,803\nOther comprehensive income\/(loss):\nChange in foreign currency translation, net of tax 395 (765) (1,511)\nChange in unrealized gains\/losses on derivative instruments, net of tax:\nChange in fair value of derivative instruments (832) 323 3,212\nAdjustment for net (gains)\/losses realized and included in net income (1,337) (1,717) (1,074)\nTotal change in unrealized gains\/losses on derivative instruments (2,169) (1,394) 2,138\nChange in unrealized gains\/losses on marketable debt securities, net of tax:\nChange in fair value of marketable debt securities 5,850 1,563 (12,104)\nAdjustment for net (gains)\/losses realized and included in net income 204 253 205\nTotal change in unrealized gains\/losses on marketable debt securities 6,054 1,816 (11,899)\nTotal other comprehensive income\/(loss) 4,280 (343) (11,272)\nTotal comprehensive income $ 98,016 $ 96,652 $ 88,531\nSee accompanying Notes to Consolidated Financial Statements. Apple Inc.",
+      "[S3] Apple Inc. Report year: 2025.0 Location: {\"pdf_page\": 36}\nApple Inc. CONSOLIDATED STATEMENTS OF CASH FLOWS\n(In millions)\nYears ended\nSeptember 27, September 28, September 30,\n2025 2024 2023\nCash, cash equivalents, and restricted cash and cash equivalents, beginning\nbalances $ 29,943 $ 30,737 $ 24,977\nOperating activities:\nNet income 112,010 93,736 96,995\nAdjustments to reconcile net income to cash generated by operating activities:\nDepreciation and amortization 11,698 11,445 11,519\nShare-based compensation expense 12,863 11,688 10,833\nOther (89) (2,266) (2,227)\nChanges in operating assets and liabilities:\nAccounts receivable, net (6,682) (3,788) (1,688)\nVendor non-trade receivables (347) (1,356) 1,271\nInventories 1,400 (1,046) (1,618)\nOther current and non-current assets (9,197) (11,731) (5,684)\nAccounts payable 902 6,020 (1,889)\nOther current and non-current liabilities (11,076) 15,552 3,031\nCash generated by operating activities 111,482 118,254 110,543\nInvesting activities:\nPurchases of marketable securities (24,407) (48,656) (29,513)\nProceeds from maturities of marketable securities 40,907 51,211 39,686\nProceeds from sales of marketable securities 12,890 11,135 5,828\nPayments for acquisition of property, plant and equipment (12,715) (9,447) (10,959)\nOther (1,480) (1,308) (1,337)\nCash generated by investing activities 15,195 2,935 3,705\nFinancing activities:\nPayments for taxes related to net share settlement of equity awards (5,960) (5,441) (5,431)\nPayments for dividends and dividend equivalents (15,421) (15,234) (15,025)\nRepurchases of common stock (90,711) (94,949) (77,550)\nProceeds from issuance of term debt, net 4,481 \u2014 5,228\nRepayments of term debt (10,932) (9,958) (11,151)\nProceeds from\/(Repayments of) commercial paper, net (2,032) 3,960 (3,978)\nOther (111) (361) (581)\nCash used in financing activities (120,686) (121,983) (108,488)\nIncrease\/(Decrease) in cash, cash equivalents, and restricted cash and cash\nequivalents 5,991 (794) 5,760\nCash, cash equivalents, and restricted cash and cash equivalents, ending\nbalances $ 35,934 $ 29,943 $ 30,737\nSupplemental cash flow disclosure:\nCash paid for income taxes, net $ 43,369 $ 26,102 $ 18,679\nSee accompanying Notes to Consolidated Financial Statements. Apple Inc."
+    ],
+    "response":"Apple net income was $112,010 million in fiscal year 2025 [S1, S3]. The reporting period is years ended September 27, 2025. The currency is not specified, but the units are in millions of dollars [S1].",
+    "reference":"112,010 million USD.",
+    "faithfulness":0.75,
+    "llm_context_precision_with_reference":0.8333333333,
+    "context_recall":1.0
+  },
+  {
+    "user_input":"What were Apple Mac net sales in fiscal 2025?",
+    "retrieved_contexts":[
+      "[S1] Apple Inc. Report year: 2025.0 Location: {\"pdf_page\": 26}\nMac\nMac net sales increased during 2025 compared to 2024 primarily due to higher net sales of laptops and desktops. iPad\niPad net sales increased during 2025 compared to 2024 primarily due to higher net sales of iPad Air, iPad mini and iPad, partially\noffset by lower net sales of iPad Pro. Wearables, Home and Accessories\nWearables, Home and Accessories net sales decreased during 2025 compared to 2024 primarily due to lower net sales of\nAccessories and Wearables. Services\nServices net sales increased during 2025 compared to 2024 primarily due to higher net sales from advertising, the App Store\nand cloud services.",
+      "[S2] Apple Inc. Report year: 2025.0 Location: {\"pdf_page\": 32}\nApple Inc. CONSOLIDATED STATEMENTS OF OPERATIONS\n(In millions, except number of shares, which are reflected in thousands, and per-share amounts)\nYears ended\nSeptember 27, September 28, September 30,\n2025 2024 2023\nNet sales:\nProducts $ 307,003 $ 294,866 $ 298,085\nServices 109,158 96,169 85,200\nTotal net sales 416,161 391,035 383,285\nCost of sales:\nProducts 194,116 185,233 189,282\nServices 26,844 25,119 24,855\nTotal cost of sales 220,960 210,352 214,137\nGross margin 195,201 180,683 169,148\nOperating expenses:\nResearch and development 34,550 31,370 29,915\nSelling, general and administrative 27,601 26,097 24,932\nTotal operating expenses 62,151 57,467 54,847\nOperating income 133,050 123,216 114,301\nOther income\/(expense), net (321) 269 (565)\nIncome before provision for income taxes 132,729 123,485 113,736\nProvision for income taxes 20,719 29,749 16,741\nNet income $ 112,010 $ 93,736 $ 96,995\nEarnings per share:\nBasic $ 7.49 $ 6.11 $ 6.16\nDiluted $ 7.46 $ 6.08 $ 6.13\nShares used in computing earnings per share:\nBasic 14,948,500 15,343,783 15,744,231\nDiluted 15,004,697 15,408,095 15,812,547\nSee accompanying Notes to Consolidated Financial Statements. Apple Inc.",
+      "[S3] Apple Inc. Report year: 2025.0 Location: {\"pdf_page\": 25}\ndollar had an unfavorable year-over-year impact on Americas net sales during\n2025. Europe\nEurope net sales increased during 2025 compared to 2024 primarily due to higher net sales of Services, iPhone and Mac. Greater China\nGreater China net sales decreased during 2025 compared to 2024 primarily due to lower net sales of iPhone, partially offset by\nhigher net sales of Mac. Japan\nJapan net sales increased during 2025 compared to 2024 primarily due to higher net sales of iPhone, Services and iPad. Rest of Asia Pacific\nRest of Asia Pacific net sales increased during 2025 compared to 2024 primarily due to higher net sales of iPhone, Services and\nMac. Apple Inc."
+    ],
+    "response":"Apple's Mac net sales increased in fiscal year 2025 compared to 2024 [S1, S3]. However, the exact amount of Mac net sales in fiscal 2025 is not provided in the evidence. Total product net sales for fiscal year 2025 were $307,003 million [S2]. \n\nCompany: Apple Inc.\nReporting Period: 2025\nCurrency: US dollars\nUnits: Millions of US dollars",
+    "reference":"33,708 million USD.",
+    "faithfulness":1.0,
+    "llm_context_precision_with_reference":0.5,
+    "context_recall":0.0
+  },
+  {
+    "user_input":"What were Alphabet total revenues in 2025?",
+    "retrieved_contexts":[
+      "[S1] Alphabet Inc. Report year: 2025.0 Location: {\"pdf_page\": 68}\nTotal deferred revenue as of December 31, 2025 was $8.6 billion. 60 Alphabet 2025 Annual Report",
+      "[S2] Alphabet Inc. Report year: 2026.0 Location: {\"pdf_page\": 1}\nAlphabet Announces Third Quarter 2026 Results\nMOUNTAIN VIEW, Calif. \u2013 October 28, 2026 \u2013 Alphabet Inc. (NASDAQ: GOOG, GOOGL) today announced\nfinancial results for the quarter ended September 30, 2026. \u2022 Consolidated Alphabet revenues increased 25% to $127.6 billion, reflecting strong performance across the\nbusiness and our 13th consecutive quarter of double-digit revenue growth. \u2022 Google Services revenues increased 11% to $96.3 billion, led by 12% growth in Google Search & other with\nthe year-over-year Search query growth rate the highest it has been in the last five years. \u2022 Google Cloud delivered record growth as revenues increased 103% to $30.7 billion, led by strong growth in\nGoogle Cloud Platform (GCP) across enterprise AI infrastructure and enterprise AI solutions, as well as core\nGCP services. TPU systems sales were also a meaningful contributor to revenue growth.",
+      "[S3] Alphabet Inc. Report year: 2024.0 Location: {\"pdf_page\": 70}\nTotal deferred revenue as of December 31, 2024 was $6.0 billion. 62 Alphabet 2024 Annual Report"
+    ],
+    "response":"I don't have enough evidence to answer this question.",
+    "reference":"402,836 million USD.",
+    "faithfulness":0.0,
+    "llm_context_precision_with_reference":0.0,
+    "context_recall":0.0
+  },
+  {
+    "user_input":"What was Google Cloud revenue in 2025?",
+    "retrieved_contexts":[
+      "[S1] Alphabet Inc. Report year: 2025.0 Location: {\"pdf_page\": 40}\nThe growth was primarily\ndriven by an increase in subscriptions revenues. This increase was primarily due to the contribution from growth in paid\nsubscriptions across both YouTube services and Google One. Google Cloud\nGoogle Cloud revenues increased $15.5 billion from 2024 to 2025, primarily driven by growth in Google Cloud Platform\nlargely from infrastructure and platform services. 32 Alphabet 2025 Annual Report",
+      "[S2] Alphabet Inc. Report year: 2024.0 Location: {\"pdf_page\": 41}\nThe growth was primarily\ndriven by an increase in subscription revenues, largely from growth in the number of paid subscribers for YouTube services\nfollowed by Google One. Google Cloud\nGoogle Cloud revenues increased $10.1 billion from 2023 to 2024 primarily driven by growth in Google Cloud Platform\nlargely from infrastructure services. Revenues by Geography\nThe following table presents revenues by geography as a percentage of revenues, determined based on the addresses of\nour customers:\nYear Ended December 31,\n2023 2024\nUnited States 47% 49%\nEMEA 30% 29%\nAPAC 17% 16%\nOther Americas 6% 6%\nHedging gains (losses) 0% 0%\nFor additional information, see Note 2 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual\nReport on Form 10-K.",
+      "[S3] Alphabet Inc. Report year: 2025.0 Location: {\"pdf_page\": 68}\nDeferred Revenues\nWe record deferred revenues when cash payments are received or due in advance of our performance, including amounts\nwhich are refundable. Deferred revenues primarily relate to Google Cloud and Google subscriptions, platforms, and\ndevices. Total deferred revenue as of December 31, 2024 was $6.0 billion, of which $4.6 billion was recognized as revenues\nfor the year ended December 31, 2025."
+    ],
+    "response":"Google Cloud revenues increased $15.5 billion from 2024 to 2025 [S1]. The company is Alphabet Inc., the reporting period is 2025, and the currency and units are not specified in the provided evidence. \n\nI don't have enough evidence to answer the question of what the total Google Cloud revenue was in 2025, only the *increase* in revenue from 2024 to 2025.",
+    "reference":"58,705 million USD.",
+    "faithfulness":0.8571428571,
+    "llm_context_precision_with_reference":0.9999999999,
+    "context_recall":0.0
+  },
+  {
+    "user_input":"What was Microsoft revenue in fiscal 2025?",
+    "retrieved_contexts":[
+      "[S1] Microsoft Corporation Report year: 2025.0 Location: {\"element_index\": 7847, \"html_id\": null, \"section\": \"NOTE 18 \\u2014 SEGMENT INFORMATION AND GEOGRAPHIC DATA\"}\nOur Microsoft Cloud revenue, which includes Microsoft 365 Commercial cloud, Azure and other cloud services, the commercial portion of LinkedIn, and Dynamics 365, was $168.9 billion, $137.7 billion, and $111.6 billion in fiscal years 2025, 2024, and 2023, respectively. These amounts are included in Microsoft 365 Commercial products and cloud services, Server products and cloud services, LinkedIn, and Dynamics products and cloud services in the table above.",
+      "[S2] Microsoft Corporation Report year: 2024.0 Location: {\"element_index\": 8286, \"html_id\": null, \"section\": \"NOTE 19 \\u2014 SEGMENT INFORMATION AND GEOGRAPHIC DATA\"}\nOur Microsoft Cloud revenue, which includes Azure and other cloud services, Office 365 Commercial, the commercial portion of LinkedIn, Dynamics 365, and other commercial cloud properties, was $137.4 billion, $111.6 billion, and $91.4 billion in fiscal years 2024, 2023, and 2022, respectively. These amounts are primarily included in Server products and cloud services, Office products and cloud services, LinkedIn, and Dynamics products and cloud services in the table above.",
+      "[S3] Microsoft Corporation Report year: 2027.0 Location: {\"element_index\": 437, \"html_id\": null, \"section\": \"Earnings Release FY27 Q1\"}\nMicrosoft\nreturned $10.2 billion to shareholders in the form of dividends and share\nrepurchases in the first quarter of fiscal year 2027."
+    ],
+    "response":"Microsoft revenue in fiscal 2025 was $168.9 billion [S1]. The currency and units are not specified in the provided evidence.",
+    "reference":"281.7 billion USD.",
+    "faithfulness":0.6666666667,
+    "llm_context_precision_with_reference":0.0,
+    "context_recall":0.0
+  },
+  {
+    "user_input":"What was Microsoft operating income in fiscal 2025?",
+    "retrieved_contexts":[
+      "[S1] Microsoft Corporation Report year: 2027.0 Location: {\"element_index\": 181, \"html_id\": null, \"section\": \"Earnings Release FY27 Q1\"}\n\u201cWe delivered a\nstrong start to the fiscal year with Microsoft Cloud revenue of $63.9 billion, with\ngrowth accelerating to 30% (up 31% in constant currency) year-over-year,\u201d said\nAmy Hood, executive vice president and chief financial officer of Microsoft. \u201cResults\nexceeded expectations across revenue, operating income, and earnings per share.\u201d",
+      "[S2] Microsoft Corporation Report year: 2027.0 Location: {\"element_index\": 437, \"html_id\": null, \"section\": \"Earnings Release FY27 Q1\"}\nMicrosoft\nreturned $10.2 billion to shareholders in the form of dividends and share\nrepurchases in the first quarter of fiscal year 2027.",
+      "[S3] Microsoft Corporation Report year: 2024.0 Location: {\"element_index\": 8286, \"html_id\": null, \"section\": \"NOTE 19 \\u2014 SEGMENT INFORMATION AND GEOGRAPHIC DATA\"}\nOur Microsoft Cloud revenue, which includes Azure and other cloud services, Office 365 Commercial, the commercial portion of LinkedIn, Dynamics 365, and other commercial cloud properties, was $137.4 billion, $111.6 billion, and $91.4 billion in fiscal years 2024, 2023, and 2022, respectively. These amounts are primarily included in Server products and cloud services, Office products and cloud services, LinkedIn, and Dynamics products and cloud services in the table above."
+    ],
+    "response":"I don't have enough evidence to answer this question.",
+    "reference":"128.5 billion USD.",
+    "faithfulness":1.0,
+    "llm_context_precision_with_reference":0.0,
+    "context_recall":0.0
+  },
+  {
+    "user_input":"What was Apple research and development expense in fiscal 2025?",
+    "retrieved_contexts":[
+      "[S1] Alphabet Inc. Report year: 2024.0 Location: {\"pdf_page\": 43}\nThe increase in other cost of revenues from 2023 to 2024 was primarily due to increases in content acquisition costs,\nlargely for YouTube, depreciation expense, and other technical infrastructure operations costs. Research and Development\nThe following table presents R&D expenses (in millions, except percentages):\nYear Ended December 31,\n2023 2024\nResearch and development expenses $ 45,427 $ 49,326\nResearch and development expenses as a percentage of revenues 15% 14%\nR&D expenses increased $3.9 billion from 2023 to 2024, primarily driven by increases in employee compensation expenses\nof $1.5 billion, depreciation expense of $1.4 billion, and third-party services fees of $698 million, partially offset by\na reduction in charges related to our office space optimization efforts of $640 million.",
+      "[S2] Alphabet Inc. Report year: 2025.0 Location: {\"pdf_page\": 37}\nThe main components of our research and development expenses are:\n\u2022 depreciation expense, primarily related to our technical infrastructure;\n\u2022 employee compensation expenses for engineering and technical employees responsible for research and development\nrelated to our existing and new products and services;\n\u2022 other technical infrastructure operations costs, including energy, equipment, and network capacity costs; and\n\u2022 third-party services fees primarily relating to consulting and outsourced services in support of our engineering and\nproduct development efforts. Alphabet 2025 Annual Report 29",
+      "[S3] Microsoft Corporation Report year: 2026.0 Location: {\"element_index\": 1109, \"html_id\": null, \"section\": \"OPERATING EXPENSES\"}\nResearch and development expenses include payroll, stock-based compensation expense, employee benefits, and other headcount-related expenses associated with product development. Research and development expenses also include technology development costs, including AI training and other infrastructure costs, third-party development and programming costs, and the depreciation and amortization of assets used to conduct research and development."
+    ],
+    "response":"I don't have enough evidence to answer this question.",
+    "reference":"34,550 million USD.",
+    "faithfulness":0.0,
+    "llm_context_precision_with_reference":0.0,
+    "context_recall":0.0
+  },
+  {
+    "user_input":"What were Apple iPhone net sales in fiscal 2025?",
+    "retrieved_contexts":[
+      "[S1] Apple Inc. Report year: 2025.0 Location: {\"pdf_page\": 39}\nThe following table shows disaggregated net sales, as well as the portion of total net sales that was previously deferred, for\n2025, 2024 and 2023 (in millions):\n2025 2024 2023\niPhone $ 209,586 $ 201,183 $ 200,583\nMac 33,708 29,984 29,357\niPad 28,023 26,694 28,300\nWearables, Home and Accessories 35,686 37,005 39,845\nServices (1) 109,158 96,169 85,200\nTotal net sales $ 416,161 $ 391,035 $ 383,285\nPortion of total net sales that was included in deferred revenue as of the\nbeginning of the period $ 8,229 $ 7,728 $ 8,169\n(1) Services net sales include amortization of the deferred value of services bundled in the sales price of certain products. The Company\u2019s proportion of net sales by disaggregated revenue source was generally consistent for each reportable segment\nin Note 13, \u201cSegment Information and Geographic Data\u201d for 2025, 2024 and 2023, except in Greater China, where iPhone\nrevenue represented a moderately higher proportion of net sales. As of September 27, 2025 and September 28, 2024, the Company had total deferred revenue of $13.7 billion and $12.8 billion,\nrespectively.",
+      "[S2] Apple Inc. Report year: 2025.0 Location: {\"pdf_page\": 26}\nProducts and Services Performance\nThe following table shows net sales by category for 2025, 2024 and 2023 (dollars in millions):\n2025 Change 2024 Change 2023\niPhone $ 209,586 4 % $ 201,183 \u2014 % $ 200,583\nMac 33,708 12 % 29,984 2 % 29,357\niPad 28,023 5 % 26,694 (6) % 28,300\nWearables, Home and Accessories 35,686 (4) % 37,005 (7) % 39,845\nServices (1) 109,158 14 % 96,169 13 % 85,200\nTotal net sales $ 416,161 6 % $ 391,035 2 % $ 383,285\n(1) Services net sales include amortization of the deferred value of services bundled in the sales price of certain products. iPhone\niPhone net sales increased during 2025 compared to 2024 due to higher net sales of Pro models.",
+      "[S3] Apple Inc. Report year: 2024.0 Location: {\"pdf_page\": 39}\nThe Company\u2019s proportion of net sales by disaggregated revenue source was generally consistent for each reportable segment in Note 13, \u201cSegment\nInformation and Geographic Data\u201d for 2024, 2023 and 2022, except in Greater China, where iPhone revenue represented a moderately higher proportion of net\nsales. As of September 28, 2024 and September 30, 2023, the Company had total deferred revenue of $12.8 billion and $12.1 billion, respectively."
+    ],
+    "response":"I don't have enough evidence to answer this question.",
+    "reference":"209,586 million USD.",
+    "faithfulness":0.0,
+    "llm_context_precision_with_reference":1.0,
+    "context_recall":1.0
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "corpus_sha256": "8a9c99bc2d3f3a6b6f3097ccf87f0134bdbe0fc81b0d0ad8f69cd26121808bad",
+  "dependency_lock_sha256": "e8191fb0e4da37a3bebaacceac49aa2187cc1995d3b14dde3a011f2c9867371b",
+  "prompt_source_sha256": "7d2b05dac88de57a0ed8f8f8e80ab4a3f447635569a38ff742e14a4334598bb2",
+  "boundary_model": "llama-text-embed-v2",
+  "boundary_provider": "pinecone",
+  "retrieval_model": "text-embedding-3-small",
+  "namespace_prefix": "financial-rag-reference-v1",
+  "generator_model": "google/gemma-3-27b-it",
+  "judge_provider": "nebius",
+  "query_dataset_sha256": "ea780ddff51299b964e3629511eb8ff074792258694320c270e0a1cb81fa1ca2",
+  "source_code_sha256": {
+    "financial_rag/remote_embeddings.py": "7107142834e55ebdf19f70090d68641510e6154512cb4f8ceab1c6d80a8f6a09",
+    "financial_rag/config.py": "561a46f8ea5543c5386883fead24c4c9e9f9ea2fcba45c584264800ed51d1126",
+    "financial_rag/vector_store.py": "eedbc1df0fd94f1a9525bcf4bd0fb9091fcbf55dd09cd587a14fba262aff748d",
+    "financial_rag/__init__.py": "e4cc9cf0775d1aa6286b616077f3da8907891e2e565b9393121ed7f26e4dfbd2",
+    "financial_rag/chunk.py": "add6b6a232b15d2834a28bc6cfc5d8b8f053cc8273d1f6476815338c66ec1810",
+    "financial_rag/pipeline.py": "7d2b05dac88de57a0ed8f8f8e80ab4a3f447635569a38ff742e14a4334598bb2",
+    "financial_rag/reference_chunk.py": "2bc31c0249b70233142bbf7fd23c2c85ca0e0404aa10f0b0d1ec6fa29e2e33fd",
+    "financial_rag/tables.py": "40b4607eb512ae4854df926c8e98df1b18de05ea02397d919e98b25feeb71e2f",
+    "financial_rag/evaluate.py": "054ee492d33c327f451cab89bd8ee11f9ba21e2571d0a96ff7f5084de5371323",
+    "financial_rag/doctor.py": "2e5a8af1b7f97e6d9575f4cc0c01767bbb4c7bc5c6d06a7b86e88a4bb68e377e",
+    "financial_rag/extract.py": "05ee36773291b646ce58c4a416eec3a2f6ec3272d0f85ff63c8ab0b13d8524ee",
+    "financial_rag/__main__.py": "580b87f515456a995d5cf1dac9dd0c7de140672a6c9b4c4894b39f052c4e1e77"
+  },
+  "completed_trials": 56,
+  "ragas_metric_scores": 168,
+  "local_tests_passed": 23
+}

@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>Ledger · Financial Document Intelligence</title>
+  <link rel="stylesheet" href="/style.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to workspace</a>
+  <aside class="sidebar">
+    <a class="brand" href="/" aria-label="Ledger home"><span class="brand-icon">L</span>Ledger<span class="brand-dot">.</span></a>
+    <div class="workspace-label">RESEARCH WORKSPACE</div>
+    <nav class="tools" aria-label="Workspace views">
+      <button id="chat-tab" data-view="chat" aria-current="page">Ask documents <span>↗</span></button>
+      <button id="ingest-tab" data-view="ingest">Add company <span>＋</span></button>
+      <button id="lab-tab" data-view="lab">Chunk lab <span>◫</span></button>
+      <button id="eval-tab" data-view="eval">Evaluation <span>▤</span></button>
+      <button id="market-tab" data-view="market">Market context <span>⌁</span></button>
+    </nav>
+    <section class="corpus" aria-label="Document collection">
+      <div class="section-label">CONNECTED DOCUMENTS</div>
+      <h3 id="company-count">Loading your collection…</h3>
+      <div id="company-list"></div>
+      <p class="doc-count" id="document-count"></p>
+    </section>
+    <div class="sidebar-bottom"><span class="status-dot" id="status-dot"></span><span id="connection" role="status">Checking services…</span></div>
+  </aside>
+  <main id="main-content">
+    <header><div>Research workspace <span class="divider">/</span><strong id="view-title">Ask your documents</strong></div><div class="header-actions"><button id="theme" type="button" aria-label="Switch color theme">Theme</button><span class="private-badge">Local workspace</span></div></header>
+    <div class="content">
+      <div id="notice" class="notice" role="status" hidden></div>
+      <section id="tools-panel" aria-labelledby="tool-heading" hidden></section>
+      <section id="chat-view" aria-label="Document chat">
+        <div class="research-controls">
+          <label for="corpus">Corpus<select id="corpus"><option value="active">All active documents</option><option value="bundled">Bundled benchmark</option></select></label>
+          <label for="mode">Retrieval<select id="mode"><option value="hybrid">Hybrid · BM25 + vectors</option><option value="vector">Vectors only</option></select></label>
+          <label class="check-label"><input type="checkbox" id="offline">Local excerpts</label>
+          <span id="context-chip" class="context-chip" role="status">No company context</span>
+        </div>
+        <section id="welcome">
+          <div class="eyebrow"><span></span>FINANCIAL DOCUMENT INTELLIGENCE</div>
+          <h1>Better questions.<br><em>Grounded answers.</em></h1>
+          <p class="intro">Explore financial reports across companies and years.<br>Inspect the evidence behind each response.</p>
+          <div class="examples">
+            <button class="example" data-question="What was JPMorgan Chase net income in 2024?"><span class="example-label">JPMORGAN CHASE</span><span>What was net income in 2024?</span><span class="arrow">↗</span></button>
+            <button class="example" data-question="Compare Apple and Microsoft revenue in 2025."><span class="example-label">COMPARE COMPANIES</span><span>How did 2025 revenue compare?</span><span class="arrow">↗</span></button>
+            <button class="example" data-question="What risks does Alphabet describe in its annual report?"><span class="example-label">ALPHABET</span><span>What risks does its report describe?</span><span class="arrow">↗</span></button>
+          </div>
+        </section>
+        <div class="conversation-tools" id="conversation-tools" hidden><span>Current conversation · kept in this tab</span><button id="export" type="button">Download conversation</button></div>
+        <section id="messages" aria-label="Questions and answers" aria-live="polite" aria-relevant="additions"></section>
+        <div class="composer-wrap">
+          <form id="ask-form">
+            <label class="sr-only" for="question">Ask a financial question</label>
+            <textarea id="question" rows="2" maxlength="2000" placeholder="Ask about revenue, cash flow, business operations, or risks…" required></textarea>
+            <div class="composer-bottom">
+              <div class="settings"><label for="strategy">Chunking</label><select id="strategy"><option value="fixed">Fixed-size</option><option value="semantic">Semantic</option><option value="section">SEC Item / section-aware</option></select><label class="check-label"><input id="rerank" type="checkbox" checked>Reranking</label></div>
+              <button id="submit" type="submit">Ask Ledger ↑</button>
+            </div>
+          </form>
+          <p id="strategy-help" class="evidence-note" role="status" hidden></p>
+          <div class="composer-note"><span>Enter to send · Shift+Enter for a new line · <span id="character-count">0 / 2000</span></span><button id="clear" type="button">New conversation</button></div>
+          <p class="evidence-note">Check fiscal columns, units and accounting definitions in the original report before relying on financial figures.</p>
+          <div id="error" role="alert" hidden></div>
+        </div>
+      </section>
+    </div>
+  </main>
+</body>
+</html>

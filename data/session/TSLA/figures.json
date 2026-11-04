@@ -1,0 +1,802 @@
+[
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "revenue",
+    "fiscal_year": 2018,
+    "period_end": "2018-12-31",
+    "reported_fy": 2018,
+    "value_usd": "21461268000",
+    "reported_value": "21461268000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001564590-19-003165",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459019003165/",
+    "document_id": "tsla-2018-12-31-facts",
+    "source_location": {
+      "period_end": "2018-12-31",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "revenue",
+    "fiscal_year": 2021,
+    "period_end": "2021-12-31",
+    "reported_fy": 2023,
+    "value_usd": "53823000000",
+    "reported_value": "53823000000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-24-002390",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828024002390/",
+    "document_id": "tsla-2021-12-31-facts",
+    "source_location": {
+      "period_end": "2021-12-31",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "revenue",
+    "fiscal_year": 2022,
+    "period_end": "2022-12-31",
+    "reported_fy": 2024,
+    "value_usd": "81462000000",
+    "reported_value": "81462000000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-25-003063",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025003063/",
+    "document_id": "tsla-2022-12-31-facts",
+    "source_location": {
+      "period_end": "2022-12-31",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "revenue",
+    "fiscal_year": 2023,
+    "period_end": "2023-12-31",
+    "reported_fy": 2025,
+    "value_usd": "96773000000",
+    "reported_value": "96773000000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-003952",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/",
+    "document_id": "tsla-2023-12-31-facts",
+    "source_location": {
+      "period_end": "2023-12-31",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "revenue",
+    "fiscal_year": 2024,
+    "period_end": "2024-12-31",
+    "reported_fy": 2025,
+    "value_usd": "97690000000",
+    "reported_value": "97690000000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-003952",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/",
+    "document_id": "tsla-2024-12-31-facts",
+    "source_location": {
+      "period_end": "2024-12-31",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "revenue",
+    "fiscal_year": 2025,
+    "period_end": "2025-12-31",
+    "reported_fy": 2025,
+    "value_usd": "94827000000",
+    "reported_value": "94827000000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-003952",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/",
+    "document_id": "tsla-2025-12-31-facts",
+    "source_location": {
+      "period_end": "2025-12-31",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "net_income",
+    "fiscal_year": 2009,
+    "period_end": "2009-12-31",
+    "reported_fy": 2011,
+    "value_usd": "-55740000",
+    "reported_value": "-55740000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "NetIncomeLoss",
+    "accession": "0001193125-12-137560",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000119312512137560/",
+    "document_id": "tsla-2009-12-31-facts",
+    "source_location": {
+      "period_end": "2009-12-31",
+      "tag": "NetIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "net_income",
+    "fiscal_year": 2010,
+    "period_end": "2010-12-31",
+    "reported_fy": 2012,
+    "value_usd": "-154328000",
+    "reported_value": "-154328000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "NetIncomeLoss",
+    "accession": "0001193125-13-096241",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000119312513096241/",
+    "document_id": "tsla-2010-12-31-facts",
+    "source_location": {
+      "period_end": "2010-12-31",
+      "tag": "NetIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "net_income",
+    "fiscal_year": 2011,
+    "period_end": "2011-12-31",
+    "reported_fy": 2013,
+    "value_usd": "-254411000",
+    "reported_value": "-254411000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "NetIncomeLoss",
+    "accession": "0001193125-14-069681",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000119312514069681/",
+    "document_id": "tsla-2011-12-31-facts",
+    "source_location": {
+      "period_end": "2011-12-31",
+      "tag": "NetIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "net_income",
+    "fiscal_year": 2012,
+    "period_end": "2012-12-31",
+    "reported_fy": 2014,
+    "value_usd": "-396213000",
+    "reported_value": "-396213000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "NetIncomeLoss",
+    "accession": "0001564590-15-001031",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459015001031/",
+    "document_id": "tsla-2012-12-31-facts",
+    "source_location": {
+      "period_end": "2012-12-31",
+      "tag": "NetIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "net_income",
+    "fiscal_year": 2013,
+    "period_end": "2013-12-31",
+    "reported_fy": 2015,
+    "value_usd": "-74014000",
+    "reported_value": "-74014000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "NetIncomeLoss",
+    "accession": "0001564590-16-013195",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459016013195/",
+    "document_id": "tsla-2013-12-31-facts",
+    "source_location": {
+      "period_end": "2013-12-31",
+      "tag": "NetIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "net_income",
+    "fiscal_year": 2014,
+    "period_end": "2014-12-31",
+    "reported_fy": 2016,
+    "value_usd": "-294040000",
+    "reported_value": "-294040000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "NetIncomeLoss",
+    "accession": "0001564590-17-003118",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459017003118/",
+    "document_id": "tsla-2014-12-31-facts",
+    "source_location": {
+      "period_end": "2014-12-31",
+      "tag": "NetIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "net_income",
+    "fiscal_year": 2015,
+    "period_end": "2015-12-31",
+    "reported_fy": 2017,
+    "value_usd": "-888663000",
+    "reported_value": "-888663000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "NetIncomeLoss",
+    "accession": "0001564590-18-002956",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459018002956/",
+    "document_id": "tsla-2015-12-31-facts",
+    "source_location": {
+      "period_end": "2015-12-31",
+      "tag": "NetIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "net_income",
+    "fiscal_year": 2016,
+    "period_end": "2016-12-31",
+    "reported_fy": 2018,
+    "value_usd": "-674914000",
+    "reported_value": "-674914000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "NetIncomeLoss",
+    "accession": "0001564590-19-003165",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459019003165/",
+    "document_id": "tsla-2016-12-31-facts",
+    "source_location": {
+      "period_end": "2016-12-31",
+      "tag": "NetIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "net_income",
+    "fiscal_year": 2017,
+    "period_end": "2017-12-31",
+    "reported_fy": 2019,
+    "value_usd": "-1962000000",
+    "reported_value": "-1962000000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "NetIncomeLoss",
+    "accession": "0001564590-20-004475",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020004475/",
+    "document_id": "tsla-2017-12-31-facts",
+    "source_location": {
+      "period_end": "2017-12-31",
+      "tag": "NetIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "net_income",
+    "fiscal_year": 2018,
+    "period_end": "2018-12-31",
+    "reported_fy": 2020,
+    "value_usd": "-976000000",
+    "reported_value": "-976000000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "NetIncomeLoss",
+    "accession": "0001564590-21-004599",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459021004599/",
+    "document_id": "tsla-2018-12-31-facts",
+    "source_location": {
+      "period_end": "2018-12-31",
+      "tag": "NetIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "net_income",
+    "fiscal_year": 2019,
+    "period_end": "2019-12-31",
+    "reported_fy": 2021,
+    "value_usd": "-862000000",
+    "reported_value": "-862000000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "NetIncomeLoss",
+    "accession": "0000950170-22-000796",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000095017022000796/",
+    "document_id": "tsla-2019-12-31-facts",
+    "source_location": {
+      "period_end": "2019-12-31",
+      "tag": "NetIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "net_income",
+    "fiscal_year": 2020,
+    "period_end": "2020-12-31",
+    "reported_fy": 2022,
+    "value_usd": "721000000",
+    "reported_value": "721000000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "NetIncomeLoss",
+    "accession": "0000950170-23-001409",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000095017023001409/",
+    "document_id": "tsla-2020-12-31-facts",
+    "source_location": {
+      "period_end": "2020-12-31",
+      "tag": "NetIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "net_income",
+    "fiscal_year": 2021,
+    "period_end": "2021-12-31",
+    "reported_fy": 2023,
+    "value_usd": "5519000000",
+    "reported_value": "5519000000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "NetIncomeLoss",
+    "accession": "0001628280-24-002390",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828024002390/",
+    "document_id": "tsla-2021-12-31-facts",
+    "source_location": {
+      "period_end": "2021-12-31",
+      "tag": "NetIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "net_income",
+    "fiscal_year": 2022,
+    "period_end": "2022-12-31",
+    "reported_fy": 2024,
+    "value_usd": "12556000000",
+    "reported_value": "12556000000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "NetIncomeLoss",
+    "accession": "0001628280-25-003063",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025003063/",
+    "document_id": "tsla-2022-12-31-facts",
+    "source_location": {
+      "period_end": "2022-12-31",
+      "tag": "NetIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "net_income",
+    "fiscal_year": 2023,
+    "period_end": "2023-12-31",
+    "reported_fy": 2025,
+    "value_usd": "14997000000",
+    "reported_value": "14997000000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "NetIncomeLoss",
+    "accession": "0001628280-26-003952",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/",
+    "document_id": "tsla-2023-12-31-facts",
+    "source_location": {
+      "period_end": "2023-12-31",
+      "tag": "NetIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "net_income",
+    "fiscal_year": 2024,
+    "period_end": "2024-12-31",
+    "reported_fy": 2025,
+    "value_usd": "7091000000",
+    "reported_value": "7091000000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "NetIncomeLoss",
+    "accession": "0001628280-26-003952",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/",
+    "document_id": "tsla-2024-12-31-facts",
+    "source_location": {
+      "period_end": "2024-12-31",
+      "tag": "NetIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "net_income",
+    "fiscal_year": 2025,
+    "period_end": "2025-12-31",
+    "reported_fy": 2025,
+    "value_usd": "3794000000",
+    "reported_value": "3794000000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "NetIncomeLoss",
+    "accession": "0001628280-26-003952",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/",
+    "document_id": "tsla-2025-12-31-facts",
+    "source_location": {
+      "period_end": "2025-12-31",
+      "tag": "NetIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "operating_income",
+    "fiscal_year": 2009,
+    "period_end": "2009-12-31",
+    "reported_fy": 2011,
+    "value_usd": "-51897000",
+    "reported_value": "-51897000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "OperatingIncomeLoss",
+    "accession": "0001193125-12-137560",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000119312512137560/",
+    "document_id": "tsla-2009-12-31-facts",
+    "source_location": {
+      "period_end": "2009-12-31",
+      "tag": "OperatingIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "operating_income",
+    "fiscal_year": 2010,
+    "period_end": "2010-12-31",
+    "reported_fy": 2012,
+    "value_usd": "-146838000",
+    "reported_value": "-146838000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "OperatingIncomeLoss",
+    "accession": "0001193125-13-096241",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000119312513096241/",
+    "document_id": "tsla-2010-12-31-facts",
+    "source_location": {
+      "period_end": "2010-12-31",
+      "tag": "OperatingIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "operating_income",
+    "fiscal_year": 2011,
+    "period_end": "2011-12-31",
+    "reported_fy": 2013,
+    "value_usd": "-251488000",
+    "reported_value": "-251488000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "OperatingIncomeLoss",
+    "accession": "0001193125-14-069681",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000119312514069681/",
+    "document_id": "tsla-2011-12-31-facts",
+    "source_location": {
+      "period_end": "2011-12-31",
+      "tag": "OperatingIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "operating_income",
+    "fiscal_year": 2012,
+    "period_end": "2012-12-31",
+    "reported_fy": 2014,
+    "value_usd": "-394283000",
+    "reported_value": "-394283000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "OperatingIncomeLoss",
+    "accession": "0001564590-15-001031",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459015001031/",
+    "document_id": "tsla-2012-12-31-facts",
+    "source_location": {
+      "period_end": "2012-12-31",
+      "tag": "OperatingIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "operating_income",
+    "fiscal_year": 2013,
+    "period_end": "2013-12-31",
+    "reported_fy": 2015,
+    "value_usd": "-61283000",
+    "reported_value": "-61283000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "OperatingIncomeLoss",
+    "accession": "0001564590-16-013195",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459016013195/",
+    "document_id": "tsla-2013-12-31-facts",
+    "source_location": {
+      "period_end": "2013-12-31",
+      "tag": "OperatingIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "operating_income",
+    "fiscal_year": 2014,
+    "period_end": "2014-12-31",
+    "reported_fy": 2016,
+    "value_usd": "-186689000",
+    "reported_value": "-186689000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "OperatingIncomeLoss",
+    "accession": "0001564590-17-003118",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459017003118/",
+    "document_id": "tsla-2014-12-31-facts",
+    "source_location": {
+      "period_end": "2014-12-31",
+      "tag": "OperatingIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "operating_income",
+    "fiscal_year": 2015,
+    "period_end": "2015-12-31",
+    "reported_fy": 2017,
+    "value_usd": "-716629000",
+    "reported_value": "-716629000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "OperatingIncomeLoss",
+    "accession": "0001564590-18-002956",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459018002956/",
+    "document_id": "tsla-2015-12-31-facts",
+    "source_location": {
+      "period_end": "2015-12-31",
+      "tag": "OperatingIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "operating_income",
+    "fiscal_year": 2016,
+    "period_end": "2016-12-31",
+    "reported_fy": 2018,
+    "value_usd": "-667340000",
+    "reported_value": "-667340000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "OperatingIncomeLoss",
+    "accession": "0001564590-19-003165",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459019003165/",
+    "document_id": "tsla-2016-12-31-facts",
+    "source_location": {
+      "period_end": "2016-12-31",
+      "tag": "OperatingIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "operating_income",
+    "fiscal_year": 2017,
+    "period_end": "2017-12-31",
+    "reported_fy": 2019,
+    "value_usd": "-1632000000",
+    "reported_value": "-1632000000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "OperatingIncomeLoss",
+    "accession": "0001564590-20-004475",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020004475/",
+    "document_id": "tsla-2017-12-31-facts",
+    "source_location": {
+      "period_end": "2017-12-31",
+      "tag": "OperatingIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "operating_income",
+    "fiscal_year": 2018,
+    "period_end": "2018-12-31",
+    "reported_fy": 2020,
+    "value_usd": "-388000000",
+    "reported_value": "-388000000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "OperatingIncomeLoss",
+    "accession": "0001564590-21-004599",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459021004599/",
+    "document_id": "tsla-2018-12-31-facts",
+    "source_location": {
+      "period_end": "2018-12-31",
+      "tag": "OperatingIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "operating_income",
+    "fiscal_year": 2019,
+    "period_end": "2019-12-31",
+    "reported_fy": 2021,
+    "value_usd": "-69000000",
+    "reported_value": "-69000000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "OperatingIncomeLoss",
+    "accession": "0000950170-22-000796",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000095017022000796/",
+    "document_id": "tsla-2019-12-31-facts",
+    "source_location": {
+      "period_end": "2019-12-31",
+      "tag": "OperatingIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "operating_income",
+    "fiscal_year": 2020,
+    "period_end": "2020-12-31",
+    "reported_fy": 2022,
+    "value_usd": "1994000000",
+    "reported_value": "1994000000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "OperatingIncomeLoss",
+    "accession": "0000950170-23-001409",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000095017023001409/",
+    "document_id": "tsla-2020-12-31-facts",
+    "source_location": {
+      "period_end": "2020-12-31",
+      "tag": "OperatingIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "operating_income",
+    "fiscal_year": 2021,
+    "period_end": "2021-12-31",
+    "reported_fy": 2023,
+    "value_usd": "6523000000",
+    "reported_value": "6523000000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "OperatingIncomeLoss",
+    "accession": "0001628280-24-002390",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828024002390/",
+    "document_id": "tsla-2021-12-31-facts",
+    "source_location": {
+      "period_end": "2021-12-31",
+      "tag": "OperatingIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "operating_income",
+    "fiscal_year": 2022,
+    "period_end": "2022-12-31",
+    "reported_fy": 2024,
+    "value_usd": "13656000000",
+    "reported_value": "13656000000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "OperatingIncomeLoss",
+    "accession": "0001628280-25-003063",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025003063/",
+    "document_id": "tsla-2022-12-31-facts",
+    "source_location": {
+      "period_end": "2022-12-31",
+      "tag": "OperatingIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "operating_income",
+    "fiscal_year": 2023,
+    "period_end": "2023-12-31",
+    "reported_fy": 2025,
+    "value_usd": "8891000000",
+    "reported_value": "8891000000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "OperatingIncomeLoss",
+    "accession": "0001628280-26-003952",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/",
+    "document_id": "tsla-2023-12-31-facts",
+    "source_location": {
+      "period_end": "2023-12-31",
+      "tag": "OperatingIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "operating_income",
+    "fiscal_year": 2024,
+    "period_end": "2024-12-31",
+    "reported_fy": 2025,
+    "value_usd": "7076000000",
+    "reported_value": "7076000000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "OperatingIncomeLoss",
+    "accession": "0001628280-26-003952",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/",
+    "document_id": "tsla-2024-12-31-facts",
+    "source_location": {
+      "period_end": "2024-12-31",
+      "tag": "OperatingIncomeLoss"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "metric": "operating_income",
+    "fiscal_year": 2025,
+    "period_end": "2025-12-31",
+    "reported_fy": 2025,
+    "value_usd": "4355000000",
+    "reported_value": "4355000000",
+    "reported_unit": "USD",
+    "source_type": "sec_company_facts",
+    "tag": "OperatingIncomeLoss",
+    "accession": "0001628280-26-003952",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/",
+    "document_id": "tsla-2025-12-31-facts",
+    "source_location": {
+      "period_end": "2025-12-31",
+      "tag": "OperatingIncomeLoss"
+    }
+  }
+]

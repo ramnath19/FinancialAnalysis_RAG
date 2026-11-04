@@ -1,0 +1,216 @@
+[
+  {
+    "id": "dev-01",
+    "question": "What was JPMorgan Chase total net revenue in 2024?",
+    "reference": "177,556 million USD.",
+    "expected_numbers": [
+      "177,556"
+    ],
+    "source_block_id": "48b7c80077d46efc81322cfd",
+    "source_location": {
+      "pdf_page": 206
+    },
+    "reference_context": "JPMorgan Chase & Co.\nConsolidated statements of income\nYear ended December 31, (in millions, except per share data) 2024 2023 2022\nRevenue\nInvestment banking fees $ 8,910 $ 6,519 $ 6,686\nPrincipal transactions 24,787 24,460 19,912\nLending- and deposit-related fees 7,606 7,413 7,098\nAsset management fees 17,801 15,220 14,096\nCommissions and other fees 7,530 6,836 6,581\nInvestment securities losses (1,021) (3,180) (2,380)\nMortgage fees and related income 1,401 1,176 1,250\nCard income 5,497 4,784 4,420\nOther income 12,462 5,609 4,322\nNoninterest revenue 84,973 68,837 61,985\nInterest income 193,933 170,588 92,807\nInterest expense 101,350 81,321 26,097\nNet interest income 92,583 89,267 66,710\nTotal net revenue 177,556 158,104 128,695\nProvision for credit losses 10,678 9,320 6,389\nNoninterest expense\nCompensation expense 51,357 46,465 41,636\nOccupancy expense 5,026 4,590 4,696\nTechnology, communications and equipment expense 9,831 9,246 9,358\nProfessional and outside services 11,057 10,235 10,174\nMarketing 4,974 4,591 3,911\nOther expense 9,552 12,045 6,365\nTotal noninterest expense 91,797 87,172 76,140\nIncome before income tax expense 75,081 61,612 46,166\nIncome tax expense 16,610 12,060 8,490\nNet income $ 58,471 $ 49,552 $ 37,676\nNet income applicable to common stockholders $ 56,868 $ 47,760 $ 35,892\nNet income per common share data\nBasic earnings per share $ 19.79 $ 16.25 $ 12.10\nDiluted earnings per share 19.75 16.23 12.09\nWeighted-average basic shares 2,873.9 2,938.6 2,965.8\nWeighted-average diluted shares 2,879.0 2,943.1 2,970.0\nThe Notes to Consolidated Financial Statements are an integral part of these statements.\n172 JPMorgan Chase & Co./2024 Form 10-K",
+    "split": "development",
+    "review": "checked against extracted statement; broader human review pending"
+  },
+  {
+    "id": "dev-02",
+    "question": "What was JPMorgan Chase net income in 2024?",
+    "reference": "58,471 million USD.",
+    "expected_numbers": [
+      "58,471"
+    ],
+    "source_block_id": "48b7c80077d46efc81322cfd",
+    "source_location": {
+      "pdf_page": 206
+    },
+    "reference_context": "JPMorgan Chase & Co.\nConsolidated statements of income\nYear ended December 31, (in millions, except per share data) 2024 2023 2022\nRevenue\nInvestment banking fees $ 8,910 $ 6,519 $ 6,686\nPrincipal transactions 24,787 24,460 19,912\nLending- and deposit-related fees 7,606 7,413 7,098\nAsset management fees 17,801 15,220 14,096\nCommissions and other fees 7,530 6,836 6,581\nInvestment securities losses (1,021) (3,180) (2,380)\nMortgage fees and related income 1,401 1,176 1,250\nCard income 5,497 4,784 4,420\nOther income 12,462 5,609 4,322\nNoninterest revenue 84,973 68,837 61,985\nInterest income 193,933 170,588 92,807\nInterest expense 101,350 81,321 26,097\nNet interest income 92,583 89,267 66,710\nTotal net revenue 177,556 158,104 128,695\nProvision for credit losses 10,678 9,320 6,389\nNoninterest expense\nCompensation expense 51,357 46,465 41,636\nOccupancy expense 5,026 4,590 4,696\nTechnology, communications and equipment expense 9,831 9,246 9,358\nProfessional and outside services 11,057 10,235 10,174\nMarketing 4,974 4,591 3,911\nOther expense 9,552 12,045 6,365\nTotal noninterest expense 91,797 87,172 76,140\nIncome before income tax expense 75,081 61,612 46,166\nIncome tax expense 16,610 12,060 8,490\nNet income $ 58,471 $ 49,552 $ 37,676\nNet income applicable to common stockholders $ 56,868 $ 47,760 $ 35,892\nNet income per common share data\nBasic earnings per share $ 19.79 $ 16.25 $ 12.10\nDiluted earnings per share 19.75 16.23 12.09\nWeighted-average basic shares 2,873.9 2,938.6 2,965.8\nWeighted-average diluted shares 2,879.0 2,943.1 2,970.0\nThe Notes to Consolidated Financial Statements are an integral part of these statements.\n172 JPMorgan Chase & Co./2024 Form 10-K",
+    "split": "development",
+    "review": "checked against extracted statement; broader human review pending"
+  },
+  {
+    "id": "dev-03",
+    "question": "What was JPMorgan Chase net interest income in 2024?",
+    "reference": "92,583 million USD.",
+    "expected_numbers": [
+      "92,583"
+    ],
+    "source_block_id": "48b7c80077d46efc81322cfd",
+    "source_location": {
+      "pdf_page": 206
+    },
+    "reference_context": "JPMorgan Chase & Co.\nConsolidated statements of income\nYear ended December 31, (in millions, except per share data) 2024 2023 2022\nRevenue\nInvestment banking fees $ 8,910 $ 6,519 $ 6,686\nPrincipal transactions 24,787 24,460 19,912\nLending- and deposit-related fees 7,606 7,413 7,098\nAsset management fees 17,801 15,220 14,096\nCommissions and other fees 7,530 6,836 6,581\nInvestment securities losses (1,021) (3,180) (2,380)\nMortgage fees and related income 1,401 1,176 1,250\nCard income 5,497 4,784 4,420\nOther income 12,462 5,609 4,322\nNoninterest revenue 84,973 68,837 61,985\nInterest income 193,933 170,588 92,807\nInterest expense 101,350 81,321 26,097\nNet interest income 92,583 89,267 66,710\nTotal net revenue 177,556 158,104 128,695\nProvision for credit losses 10,678 9,320 6,389\nNoninterest expense\nCompensation expense 51,357 46,465 41,636\nOccupancy expense 5,026 4,590 4,696\nTechnology, communications and equipment expense 9,831 9,246 9,358\nProfessional and outside services 11,057 10,235 10,174\nMarketing 4,974 4,591 3,911\nOther expense 9,552 12,045 6,365\nTotal noninterest expense 91,797 87,172 76,140\nIncome before income tax expense 75,081 61,612 46,166\nIncome tax expense 16,610 12,060 8,490\nNet income $ 58,471 $ 49,552 $ 37,676\nNet income applicable to common stockholders $ 56,868 $ 47,760 $ 35,892\nNet income per common share data\nBasic earnings per share $ 19.79 $ 16.25 $ 12.10\nDiluted earnings per share 19.75 16.23 12.09\nWeighted-average basic shares 2,873.9 2,938.6 2,965.8\nWeighted-average diluted shares 2,879.0 2,943.1 2,970.0\nThe Notes to Consolidated Financial Statements are an integral part of these statements.\n172 JPMorgan Chase & Co./2024 Form 10-K",
+    "split": "development",
+    "review": "checked against extracted statement; broader human review pending"
+  },
+  {
+    "id": "dev-04",
+    "question": "What were JPMorgan Chase total assets at December 31, 2024?",
+    "reference": "4,002,814 million USD.",
+    "expected_numbers": [
+      "4,002,814"
+    ],
+    "source_block_id": "dfdea7d0d6bca8a392df2e27",
+    "source_location": {
+      "pdf_page": 208
+    },
+    "reference_context": "JPMorgan Chase & Co.\nConsolidated balance sheets\nDecember 31, (in millions, except share data) 2024 2023\nAssets\nCash and due from banks $ 23,372 $ 29,066\nDeposits with banks 445,945 595,085\nFederal funds sold and securities purchased under resale agreements (included $286,771 and $259,813 at fair\nvalue) 295,001 276,152\nSecurities borrowed (included $83,962 and $70,086 at fair value) 219,546 200,436\nTrading assets (included assets pledged of $136,070 and $128,994) 637,784 540,607\nAvailable-for-sale securities (amortized cost of $411,045 and $205,456; included assets pledged of $10,162\nand $9,219) 406,852 201,704\nHeld-to-maturity securities 274,468 369,848\nInvestment securities, net of allowance for credit losses 681,320 571,552\nLoans (included $41,350 and $38,851 at fair value) 1,347,988 1,323,706\nAllowance for loan losses (24,345) (22,420)\nLoans, net of allowance for loan losses 1,323,643 1,301,286\nAccrued interest and accounts receivable 101,223 107,363\nPremises and equipment 32,223 30,157\nGoodwill, MSRs and other intangible assets 64,560 64,381\nOther assets (included $15,122 and $12,306 at fair value and assets pledged of $6,288 and $6,764) 178,197 159,308\nTotal assets(a) $ 4,002,814 $ 3,875,393\nLiabilities\nDeposits (included $33,768 and $78,384 at fair value) $ 2,406,032 $ 2,400,688\nFederal funds purchased and securities loaned or sold under repurchase agreements (included $226,329 and\n$169,003 at fair value) 296,835 216,535\nShort-term borrowings (included $26,521 and $20,042 at fair value) 52,893 44,712\nTrading liabilities 192,883 180,428\nAccounts payable and other liabilities (included $5,893 and $5,637 at fair value) 280,672 290,307\nBeneficial interests issued by consolidated VIEs (included $1 and $1 at fair value) 27,323 23,020\nLong-term debt (included $100,780 and $87,924 at fair value) 401,418 391,825\nTotal liabilities(a) 3,658,056 3,547,515\nCommitments and contingencies (refer to Notes 28, 29 and 30)\nStockholders\u2019 equity\nPreferred stock ($1 par value; authorized 200,000,000 shares: issued 2,005,375 and 2,740,375 shares) 20,050 27,404\nCommon stock ($1 par value; authorized 9,000,000,000 shares; issued 4,104,933,895 shares) 4,105 4,105\nAdditional paid-in capital 90,911 90,128\nRetained earnings 376,166 332,901\nAccumulated other comprehensive losses (12,456) (10,443)\nTreasury stock, at cost (1,307,313,494 and 1,228,275,301 shares) (134,018) (116,217)\nTotal stockholders\u2019 equity 344,758 327,878\nTotal liabilities and stockholders\u2019 equity $ 4,002,814 $ 3,875,393\n(a) The following table presents information on assets and liabilities related to VIEs that are consolidated by the Firm at December 31, 2024 and\n2023. The assets of the consolidated VIEs are used to settle the liabilities of those entities. The holders of the beneficial interests do not have\nrecourse to the general credit of JPMorganChase. The assets and liabilities in the table below include third-party assets and liabilities of\nconsolidated VIEs and exclude intercompany balances that eliminate in consolidation. Refer to Note 14 for a further discussion.\nDecember 31, (in millions) 2024 2023\nAssets\nTrading assets $ 3,885 $ 2,170\nLoans 36,510 37,611\nAll other assets 681 591\nTotal assets $ 41,076 $ 40,372\nLiabilities\nBeneficial interests issued by consolidated VIEs $ 27,323 $ 23,020\nAll other liabilities 454 263\nTotal liabilities $ 27,777 $ 23,283\nThe Notes to Consolidated Financial Statements are an integral part of these statements.\n174 JPMorgan Chase & Co./2024 Form 10-K",
+    "split": "development",
+    "review": "checked against extracted statement; broader human review pending"
+  },
+  {
+    "id": "dev-05",
+    "question": "What were JPMorgan Chase deposits at December 31, 2024?",
+    "reference": "2,406,032 million USD.",
+    "expected_numbers": [
+      "2,406,032"
+    ],
+    "source_block_id": "dfdea7d0d6bca8a392df2e27",
+    "source_location": {
+      "pdf_page": 208
+    },
+    "reference_context": "JPMorgan Chase & Co.\nConsolidated balance sheets\nDecember 31, (in millions, except share data) 2024 2023\nAssets\nCash and due from banks $ 23,372 $ 29,066\nDeposits with banks 445,945 595,085\nFederal funds sold and securities purchased under resale agreements (included $286,771 and $259,813 at fair\nvalue) 295,001 276,152\nSecurities borrowed (included $83,962 and $70,086 at fair value) 219,546 200,436\nTrading assets (included assets pledged of $136,070 and $128,994) 637,784 540,607\nAvailable-for-sale securities (amortized cost of $411,045 and $205,456; included assets pledged of $10,162\nand $9,219) 406,852 201,704\nHeld-to-maturity securities 274,468 369,848\nInvestment securities, net of allowance for credit losses 681,320 571,552\nLoans (included $41,350 and $38,851 at fair value) 1,347,988 1,323,706\nAllowance for loan losses (24,345) (22,420)\nLoans, net of allowance for loan losses 1,323,643 1,301,286\nAccrued interest and accounts receivable 101,223 107,363\nPremises and equipment 32,223 30,157\nGoodwill, MSRs and other intangible assets 64,560 64,381\nOther assets (included $15,122 and $12,306 at fair value and assets pledged of $6,288 and $6,764) 178,197 159,308\nTotal assets(a) $ 4,002,814 $ 3,875,393\nLiabilities\nDeposits (included $33,768 and $78,384 at fair value) $ 2,406,032 $ 2,400,688\nFederal funds purchased and securities loaned or sold under repurchase agreements (included $226,329 and\n$169,003 at fair value) 296,835 216,535\nShort-term borrowings (included $26,521 and $20,042 at fair value) 52,893 44,712\nTrading liabilities 192,883 180,428\nAccounts payable and other liabilities (included $5,893 and $5,637 at fair value) 280,672 290,307\nBeneficial interests issued by consolidated VIEs (included $1 and $1 at fair value) 27,323 23,020\nLong-term debt (included $100,780 and $87,924 at fair value) 401,418 391,825\nTotal liabilities(a) 3,658,056 3,547,515\nCommitments and contingencies (refer to Notes 28, 29 and 30)\nStockholders\u2019 equity\nPreferred stock ($1 par value; authorized 200,000,000 shares: issued 2,005,375 and 2,740,375 shares) 20,050 27,404\nCommon stock ($1 par value; authorized 9,000,000,000 shares; issued 4,104,933,895 shares) 4,105 4,105\nAdditional paid-in capital 90,911 90,128\nRetained earnings 376,166 332,901\nAccumulated other comprehensive losses (12,456) (10,443)\nTreasury stock, at cost (1,307,313,494 and 1,228,275,301 shares) (134,018) (116,217)\nTotal stockholders\u2019 equity 344,758 327,878\nTotal liabilities and stockholders\u2019 equity $ 4,002,814 $ 3,875,393\n(a) The following table presents information on assets and liabilities related to VIEs that are consolidated by the Firm at December 31, 2024 and\n2023. The assets of the consolidated VIEs are used to settle the liabilities of those entities. The holders of the beneficial interests do not have\nrecourse to the general credit of JPMorganChase. The assets and liabilities in the table below include third-party assets and liabilities of\nconsolidated VIEs and exclude intercompany balances that eliminate in consolidation. Refer to Note 14 for a further discussion.\nDecember 31, (in millions) 2024 2023\nAssets\nTrading assets $ 3,885 $ 2,170\nLoans 36,510 37,611\nAll other assets 681 591\nTotal assets $ 41,076 $ 40,372\nLiabilities\nBeneficial interests issued by consolidated VIEs $ 27,323 $ 23,020\nAll other liabilities 454 263\nTotal liabilities $ 27,777 $ 23,283\nThe Notes to Consolidated Financial Statements are an integral part of these statements.\n174 JPMorgan Chase & Co./2024 Form 10-K",
+    "split": "development",
+    "review": "checked against extracted statement; broader human review pending"
+  },
+  {
+    "id": "dev-06",
+    "question": "What were Apple total net sales in fiscal 2025?",
+    "reference": "416,161 million USD.",
+    "expected_numbers": [
+      "416,161"
+    ],
+    "source_block_id": "e2d8e36b4c883e7ac641f757",
+    "source_location": {
+      "pdf_page": 32
+    },
+    "reference_context": "Apple Inc.\nCONSOLIDATED STATEMENTS OF OPERATIONS\n(In millions, except number of shares, which are reflected in thousands, and per-share amounts)\nYears ended\nSeptember 27, September 28, September 30,\n2025 2024 2023\nNet sales:\nProducts $ 307,003 $ 294,866 $ 298,085\nServices 109,158 96,169 85,200\nTotal net sales 416,161 391,035 383,285\nCost of sales:\nProducts 194,116 185,233 189,282\nServices 26,844 25,119 24,855\nTotal cost of sales 220,960 210,352 214,137\nGross margin 195,201 180,683 169,148\nOperating expenses:\nResearch and development 34,550 31,370 29,915\nSelling, general and administrative 27,601 26,097 24,932\nTotal operating expenses 62,151 57,467 54,847\nOperating income 133,050 123,216 114,301\nOther income/(expense), net (321) 269 (565)\nIncome before provision for income taxes 132,729 123,485 113,736\nProvision for income taxes 20,719 29,749 16,741\nNet income $ 112,010 $ 93,736 $ 96,995\nEarnings per share:\nBasic $ 7.49 $ 6.11 $ 6.16\nDiluted $ 7.46 $ 6.08 $ 6.13\nShares used in computing earnings per share:\nBasic 14,948,500 15,343,783 15,744,231\nDiluted 15,004,697 15,408,095 15,812,547\nSee accompanying Notes to Consolidated Financial Statements.\nApple Inc. | 2025 Form 10-K | 29",
+    "split": "development",
+    "review": "checked against extracted statement; broader human review pending"
+  },
+  {
+    "id": "dev-07",
+    "question": "What was Apple net income in fiscal 2025?",
+    "reference": "112,010 million USD.",
+    "expected_numbers": [
+      "112,010"
+    ],
+    "source_block_id": "e2d8e36b4c883e7ac641f757",
+    "source_location": {
+      "pdf_page": 32
+    },
+    "reference_context": "Apple Inc.\nCONSOLIDATED STATEMENTS OF OPERATIONS\n(In millions, except number of shares, which are reflected in thousands, and per-share amounts)\nYears ended\nSeptember 27, September 28, September 30,\n2025 2024 2023\nNet sales:\nProducts $ 307,003 $ 294,866 $ 298,085\nServices 109,158 96,169 85,200\nTotal net sales 416,161 391,035 383,285\nCost of sales:\nProducts 194,116 185,233 189,282\nServices 26,844 25,119 24,855\nTotal cost of sales 220,960 210,352 214,137\nGross margin 195,201 180,683 169,148\nOperating expenses:\nResearch and development 34,550 31,370 29,915\nSelling, general and administrative 27,601 26,097 24,932\nTotal operating expenses 62,151 57,467 54,847\nOperating income 133,050 123,216 114,301\nOther income/(expense), net (321) 269 (565)\nIncome before provision for income taxes 132,729 123,485 113,736\nProvision for income taxes 20,719 29,749 16,741\nNet income $ 112,010 $ 93,736 $ 96,995\nEarnings per share:\nBasic $ 7.49 $ 6.11 $ 6.16\nDiluted $ 7.46 $ 6.08 $ 6.13\nShares used in computing earnings per share:\nBasic 14,948,500 15,343,783 15,744,231\nDiluted 15,004,697 15,408,095 15,812,547\nSee accompanying Notes to Consolidated Financial Statements.\nApple Inc. | 2025 Form 10-K | 29",
+    "split": "development",
+    "review": "checked against extracted statement; broader human review pending"
+  },
+  {
+    "id": "dev-08",
+    "question": "What was Apple research and development expense in fiscal 2025?",
+    "reference": "34,550 million USD.",
+    "expected_numbers": [
+      "34,550"
+    ],
+    "source_block_id": "e2d8e36b4c883e7ac641f757",
+    "source_location": {
+      "pdf_page": 32
+    },
+    "reference_context": "Apple Inc.\nCONSOLIDATED STATEMENTS OF OPERATIONS\n(In millions, except number of shares, which are reflected in thousands, and per-share amounts)\nYears ended\nSeptember 27, September 28, September 30,\n2025 2024 2023\nNet sales:\nProducts $ 307,003 $ 294,866 $ 298,085\nServices 109,158 96,169 85,200\nTotal net sales 416,161 391,035 383,285\nCost of sales:\nProducts 194,116 185,233 189,282\nServices 26,844 25,119 24,855\nTotal cost of sales 220,960 210,352 214,137\nGross margin 195,201 180,683 169,148\nOperating expenses:\nResearch and development 34,550 31,370 29,915\nSelling, general and administrative 27,601 26,097 24,932\nTotal operating expenses 62,151 57,467 54,847\nOperating income 133,050 123,216 114,301\nOther income/(expense), net (321) 269 (565)\nIncome before provision for income taxes 132,729 123,485 113,736\nProvision for income taxes 20,719 29,749 16,741\nNet income $ 112,010 $ 93,736 $ 96,995\nEarnings per share:\nBasic $ 7.49 $ 6.11 $ 6.16\nDiluted $ 7.46 $ 6.08 $ 6.13\nShares used in computing earnings per share:\nBasic 14,948,500 15,343,783 15,744,231\nDiluted 15,004,697 15,408,095 15,812,547\nSee accompanying Notes to Consolidated Financial Statements.\nApple Inc. | 2025 Form 10-K | 29",
+    "split": "development",
+    "review": "checked against extracted statement; broader human review pending"
+  },
+  {
+    "id": "dev-09",
+    "question": "What were Apple iPhone net sales in fiscal 2025?",
+    "reference": "209,586 million USD.",
+    "expected_numbers": [
+      "209,586"
+    ],
+    "source_block_id": "a4ee9116bd37f07fd849f303",
+    "source_location": {
+      "pdf_page": 26
+    },
+    "reference_context": "Products and Services Performance\nThe following table shows net sales by category for 2025, 2024 and 2023 (dollars in millions):\n2025 Change 2024 Change 2023\niPhone $ 209,586 4 % $ 201,183 \u2014 % $ 200,583\nMac 33,708 12 % 29,984 2 % 29,357\niPad 28,023 5 % 26,694 (6) % 28,300\nWearables, Home and Accessories 35,686 (4) % 37,005 (7) % 39,845\nServices (1) 109,158 14 % 96,169 13 % 85,200\nTotal net sales $ 416,161 6 % $ 391,035 2 % $ 383,285\n(1) Services net sales include amortization of the deferred value of services bundled in the sales price of certain products.\niPhone\niPhone net sales increased during 2025 compared to 2024 due to higher net sales of Pro models.\nMac\nMac net sales increased during 2025 compared to 2024 primarily due to higher net sales of laptops and desktops.\niPad\niPad net sales increased during 2025 compared to 2024 primarily due to higher net sales of iPad Air, iPad mini and iPad, partially\noffset by lower net sales of iPad Pro.\nWearables, Home and Accessories\nWearables, Home and Accessories net sales decreased during 2025 compared to 2024 primarily due to lower net sales of\nAccessories and Wearables.\nServices\nServices net sales increased during 2025 compared to 2024 primarily due to higher net sales from advertising, the App Store\nand cloud services.\nApple Inc. | 2025 Form 10-K | 23",
+    "split": "development",
+    "review": "checked against extracted statement; broader human review pending"
+  },
+  {
+    "id": "dev-10",
+    "question": "What were Apple Mac net sales in fiscal 2025?",
+    "reference": "33,708 million USD.",
+    "expected_numbers": [
+      "33,708"
+    ],
+    "source_block_id": "a4ee9116bd37f07fd849f303",
+    "source_location": {
+      "pdf_page": 26
+    },
+    "reference_context": "Products and Services Performance\nThe following table shows net sales by category for 2025, 2024 and 2023 (dollars in millions):\n2025 Change 2024 Change 2023\niPhone $ 209,586 4 % $ 201,183 \u2014 % $ 200,583\nMac 33,708 12 % 29,984 2 % 29,357\niPad 28,023 5 % 26,694 (6) % 28,300\nWearables, Home and Accessories 35,686 (4) % 37,005 (7) % 39,845\nServices (1) 109,158 14 % 96,169 13 % 85,200\nTotal net sales $ 416,161 6 % $ 391,035 2 % $ 383,285\n(1) Services net sales include amortization of the deferred value of services bundled in the sales price of certain products.\niPhone\niPhone net sales increased during 2025 compared to 2024 due to higher net sales of Pro models.\nMac\nMac net sales increased during 2025 compared to 2024 primarily due to higher net sales of laptops and desktops.\niPad\niPad net sales increased during 2025 compared to 2024 primarily due to higher net sales of iPad Air, iPad mini and iPad, partially\noffset by lower net sales of iPad Pro.\nWearables, Home and Accessories\nWearables, Home and Accessories net sales decreased during 2025 compared to 2024 primarily due to lower net sales of\nAccessories and Wearables.\nServices\nServices net sales increased during 2025 compared to 2024 primarily due to higher net sales from advertising, the App Store\nand cloud services.\nApple Inc. | 2025 Form 10-K | 23",
+    "split": "development",
+    "review": "checked against extracted statement; broader human review pending"
+  },
+  {
+    "id": "dev-11",
+    "question": "What were Alphabet total revenues in 2025?",
+    "reference": "402,836 million USD.",
+    "expected_numbers": [
+      "402,836"
+    ],
+    "source_block_id": "aced35d566d62e020a372ac3",
+    "source_location": {
+      "pdf_page": 98
+    },
+    "reference_context": "Part I Part II Part III Part IV\nThe following table presents revenue, profitability, and expense information about our segments (in millions):\nYear Ended December 31,\n2023 2024 2025\nRevenues:\nGoogle Services $ 272,543 $ 304,930 $ 342,721\nGoogle Cloud 33,088 43,229 58,705\nOther Bets 1,527 1,648 1,537\nHedging gains (losses) 236 211 (127)\nTotal revenues $ 307,394 $ 350,018 $ 402,836\nOperating income (loss):\nGoogle Services $ 95,858 $ 121,263 $ 139,404\nGoogle Cloud 1,716 6,112 13,910\nOther Bets (4,095) (4,444) (7,515)\nAlphabet-level activities (9,186) (10,541) (16,760)\nTotal income from operations $ 84,293 $ 112,390 $ 129,039\nSupplemental information about segment expenses:\nGoogle Services:\nEmployee compensation expenses $ 46,224 $ 44,560 $ 45,124\nOther costs and expenses 130,461 139,107 158,193\nTotal Google Services costs and expenses $ 176,685 $ 183,667 $ 203,317\nGoogle Cloud:\nEmployee compensation expenses $ 19,054 $ 20,519 $ 22,078\nOther costs and expenses 12,318 16,598 22,717\nTotal Google Cloud costs and expenses $ 31,372 $ 37,117 $ 44,795\nGoogle Services and Google Cloud employee compensation expenses include the costs associated with direct and\nallocated employees. Google Services and Google Cloud other costs and expenses primarily include direct costs, such as\nadvertising and promotional activities, legal and other matters, and third-party services fees as well as allocated costs,\nsuch as technical infrastructure and office facilities usage costs. Additionally, Google Services other costs and expenses\ninclude content and traffic acquisition costs and device costs.\nSee Note 2 for further details relating to revenues by geography.\nThe following table presents long-lived assets by geographic area, which includes property and equipment, net and\noperating lease assets (in millions):\nAs of December 31,\n2024 2025\nLong-lived assets:\nUnited States $ 138,993 $ 195,337\nInternational 45,631 66,481\nTotal long-lived assets $ 184,624 $ 261,818\nNote 16. Subsequent Event\nIn January 2026, we recognized approximately $32.0 billion of unrealized gains in our non-marketable investments. These\nunrealized gains reflect an estimated increase in the fair value measurement following observable transactions that occurred\nin January 2026, and are subject to change as we finalize related valuations. See Note 3 and Note 7 for further details on equity\ninvestments and OI&E.\n90 Alphabet 2025 Annual Report",
+    "split": "development",
+    "review": "checked against extracted statement; broader human review pending"
+  },
+  {
+    "id": "dev-12",
+    "question": "What was Google Cloud revenue in 2025?",
+    "reference": "58,705 million USD.",
+    "expected_numbers": [
+      "58,705"
+    ],
+    "source_block_id": "aced35d566d62e020a372ac3",
+    "source_location": {
+      "pdf_page": 98
+    },
+    "reference_context": "Part I Part II Part III Part IV\nThe following table presents revenue, profitability, and expense information about our segments (in millions):\nYear Ended December 31,\n2023 2024 2025\nRevenues:\nGoogle Services $ 272,543 $ 304,930 $ 342,721\nGoogle Cloud 33,088 43,229 58,705\nOther Bets 1,527 1,648 1,537\nHedging gains (losses) 236 211 (127)\nTotal revenues $ 307,394 $ 350,018 $ 402,836\nOperating income (loss):\nGoogle Services $ 95,858 $ 121,263 $ 139,404\nGoogle Cloud 1,716 6,112 13,910\nOther Bets (4,095) (4,444) (7,515)\nAlphabet-level activities (9,186) (10,541) (16,760)\nTotal income from operations $ 84,293 $ 112,390 $ 129,039\nSupplemental information about segment expenses:\nGoogle Services:\nEmployee compensation expenses $ 46,224 $ 44,560 $ 45,124\nOther costs and expenses 130,461 139,107 158,193\nTotal Google Services costs and expenses $ 176,685 $ 183,667 $ 203,317\nGoogle Cloud:\nEmployee compensation expenses $ 19,054 $ 20,519 $ 22,078\nOther costs and expenses 12,318 16,598 22,717\nTotal Google Cloud costs and expenses $ 31,372 $ 37,117 $ 44,795\nGoogle Services and Google Cloud employee compensation expenses include the costs associated with direct and\nallocated employees. Google Services and Google Cloud other costs and expenses primarily include direct costs, such as\nadvertising and promotional activities, legal and other matters, and third-party services fees as well as allocated costs,\nsuch as technical infrastructure and office facilities usage costs. Additionally, Google Services other costs and expenses\ninclude content and traffic acquisition costs and device costs.\nSee Note 2 for further details relating to revenues by geography.\nThe following table presents long-lived assets by geographic area, which includes property and equipment, net and\noperating lease assets (in millions):\nAs of December 31,\n2024 2025\nLong-lived assets:\nUnited States $ 138,993 $ 195,337\nInternational 45,631 66,481\nTotal long-lived assets $ 184,624 $ 261,818\nNote 16. Subsequent Event\nIn January 2026, we recognized approximately $32.0 billion of unrealized gains in our non-marketable investments. These\nunrealized gains reflect an estimated increase in the fair value measurement following observable transactions that occurred\nin January 2026, and are subject to change as we finalize related valuations. See Note 3 and Note 7 for further details on equity\ninvestments and OI&E.\n90 Alphabet 2025 Annual Report",
+    "split": "development",
+    "review": "checked against extracted statement; broader human review pending"
+  },
+  {
+    "id": "dev-13",
+    "question": "What was Microsoft revenue in fiscal 2025?",
+    "reference": "281.7 billion USD.",
+    "expected_numbers": [
+      "281.7"
+    ],
+    "source_block_id": "2e13f238e09bd1f6a24a7e5a",
+    "source_location": {
+      "element_index": 35,
+      "html_id": null,
+      "section": "Satya Nadella"
+    },
+    "reference_context": "Financially, it was a year of record performance. Revenue was $281.7 billion, up 15 percent. Operating income grew 17 percent to $128.5 billion. And Azure surpassed $75 billion in revenue for the first time, up 34 percent. These results reflect the growing demand for our platform and the trust customers are placing in us. We take neither for granted.",
+    "split": "development",
+    "review": "checked against extracted narrative; broader human review pending"
+  },
+  {
+    "id": "dev-14",
+    "question": "What was Microsoft operating income in fiscal 2025?",
+    "reference": "128.5 billion USD.",
+    "expected_numbers": [
+      "128.5"
+    ],
+    "source_block_id": "2e13f238e09bd1f6a24a7e5a",
+    "source_location": {
+      "element_index": 35,
+      "html_id": null,
+      "section": "Satya Nadella"
+    },
+    "reference_context": "Financially, it was a year of record performance. Revenue was $281.7 billion, up 15 percent. Operating income grew 17 percent to $128.5 billion. And Azure surpassed $75 billion in revenue for the first time, up 34 percent. These results reflect the growing demand for our platform and the trust customers are placing in us. We take neither for granted.",
+    "split": "development",
+    "review": "checked against extracted narrative; broader human review pending"
+  }
+]

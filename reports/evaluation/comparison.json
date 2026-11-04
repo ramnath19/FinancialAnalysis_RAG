@@ -1,0 +1,38 @@
+[
+  {
+    "configuration": "fixed-direct",
+    "questions": 14,
+    "completed": 14,
+    "abstentions": 3,
+    "numeric_reference_presence": 0.2857142857142857,
+    "reference_number_in_context": 0.2857142857142857,
+    "mean_seconds": 1.4427728690009514
+  },
+  {
+    "configuration": "fixed-rerank",
+    "questions": 14,
+    "completed": 14,
+    "abstentions": 3,
+    "numeric_reference_presence": 0.42857142857142855,
+    "reference_number_in_context": 0.5,
+    "mean_seconds": 1.659131193430637
+  },
+  {
+    "configuration": "semantic-direct",
+    "questions": 14,
+    "completed": 14,
+    "abstentions": 9,
+    "numeric_reference_presence": 0.21428571428571427,
+    "reference_number_in_context": 0.42857142857142855,
+    "mean_seconds": 1.6343727200728608
+  },
+  {
+    "configuration": "semantic-rerank",
+    "questions": 14,
+    "completed": 14,
+    "abstentions": 5,
+    "numeric_reference_presence": 0.21428571428571427,
+    "reference_number_in_context": 0.2857142857142857,
+    "mean_seconds": 1.645073583429621
+  }
+]

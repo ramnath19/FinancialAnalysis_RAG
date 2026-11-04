@@ -1,0 +1,22 @@
+[
+  {
+    "strategy": "fixed",
+    "chunks": 12570,
+    "documents": 13,
+    "mean_chars": 386.9,
+    "median_chars": 460.0,
+    "p90_chars": 505,
+    "max_chars": 512,
+    "exact_span_fraction": 1.0
+  },
+  {
+    "strategy": "semantic",
+    "chunks": 12277,
+    "documents": 13,
+    "mean_chars": 380.2,
+    "median_chars": 248,
+    "p90_chars": 887,
+    "max_chars": 4559,
+    "exact_span_fraction": 0.2718090738779832
+  }
+]

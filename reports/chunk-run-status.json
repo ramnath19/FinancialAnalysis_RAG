@@ -1,0 +1,16 @@
+{
+  "status": "semantic_blocked_model_download",
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "failure": "Hugging Face HTTP 503 after retries; publisher alternate endpoint HTTP 500",
+  "fixed": {
+    "chunks": 5688,
+    "documents": 13,
+    "mean_chars": 885.5,
+    "median_chars": 650,
+    "p90_chars": 1800,
+    "max_chars": 1800,
+    "below_200_chars": 1624,
+    "character_volume_ratio": 1.077
+  },
+  "semantic": null
+}

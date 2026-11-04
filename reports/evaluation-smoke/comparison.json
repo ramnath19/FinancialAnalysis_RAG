@@ -1,0 +1,16 @@
+[
+  {
+    "configuration": "fixed-direct",
+    "questions": 1,
+    "completed": 1,
+    "numeric_reference_presence": 1.0,
+    "mean_seconds": 3.837389833992347
+  },
+  {
+    "configuration": "fixed-rerank",
+    "questions": 1,
+    "completed": 1,
+    "numeric_reference_presence": 1.0,
+    "mean_seconds": 1.7901914999965811
+  }
+]

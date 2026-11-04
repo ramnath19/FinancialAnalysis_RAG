@@ -1,0 +1,10 @@
+[
+  {
+    "document_id": "company-2024-10k",
+    "company": "REPLACE_WITH_COMPANY",
+    "fiscal_year": 2024,
+    "document_type": "10-K",
+    "source_url": "REPLACE_WITH_ORIGINAL_FILING_URL",
+    "path": "raw/company-2024-10k.html"
+  }
+]

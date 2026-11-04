@@ -1,0 +1,11 @@
+{
+  "passed": [
+    "page and static assets",
+    "validation, malformed JSON, cross-origin rejection and request IDs",
+    "scope, comparison and follow-up memory",
+    "chunk lab, jobs, evaluation and market validation",
+    "live provider response with evidence"
+  ],
+  "live_provider_check": true,
+  "visual_browser_check": "unavailable"
+}

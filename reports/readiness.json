@@ -1,0 +1,22 @@
+{
+  "credentials": {
+    "OPENAI_API_KEY": false,
+    "PINECONE_API_KEY": true,
+    "PINECONE_INDEX_HOST": true,
+    "NEBIUS_API_KEY": true
+  },
+  "dependencies": {
+    "langchain_text_splitters": true,
+    "langchain_experimental": true,
+    "langchain_openai": true,
+    "flashrank": true,
+    "ragas": true,
+    "pinecone": true
+  },
+  "reference_chunks": {
+    "fixed": true,
+    "semantic": true
+  },
+  "semantic_embedding_provider": "pinecone",
+  "openai_key_required": false
+}

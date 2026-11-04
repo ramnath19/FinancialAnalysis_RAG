@@ -1,0 +1,80 @@
+[
+  {
+    "document_id": "jpm-2024-annual",
+    "pages": 372,
+    "size_bytes": 17104906,
+    "status": "readable; company and fiscal year found"
+  },
+  {
+    "document_id": "jpm-2025-annual",
+    "pages": 364,
+    "size_bytes": 4928865,
+    "status": "readable; company and fiscal year found"
+  },
+  {
+    "document_id": "aapl-2024-annual",
+    "pages": 121,
+    "size_bytes": 1093835,
+    "status": "readable; company and fiscal year found"
+  },
+  {
+    "document_id": "aapl-2025-annual",
+    "pages": 80,
+    "size_bytes": 1858048,
+    "status": "readable; company and fiscal year found"
+  },
+  {
+    "document_id": "googl-2024-annual",
+    "pages": 110,
+    "size_bytes": 7270474,
+    "status": "readable; company and fiscal year found"
+  },
+  {
+    "document_id": "googl-2025-annual",
+    "pages": 109,
+    "size_bytes": 1245502,
+    "status": "readable; company and fiscal year found"
+  },
+  {
+    "document_id": "msft-2024-annual",
+    "pages": null,
+    "size_bytes": 486883,
+    "status": "readable; company and fiscal year found"
+  },
+  {
+    "document_id": "msft-2025-annual",
+    "pages": null,
+    "size_bytes": 601259,
+    "status": "readable; company and fiscal year found"
+  },
+  {
+    "document_id": "msft-2026-annual",
+    "pages": null,
+    "size_bytes": 460968,
+    "status": "readable; company and fiscal year found"
+  },
+  {
+    "document_id": "jpm-2026-q3-earnings",
+    "pages": 8,
+    "size_bytes": 204404,
+    "status": "readable; company and fiscal year found"
+  },
+  {
+    "document_id": "aapl-2026-q4-earnings",
+    "pages": null,
+    "size_bytes": 138063,
+    "status": "readable; company and fiscal year found"
+  },
+  {
+    "document_id": "googl-2026-q3-earnings",
+    "pages": 9,
+    "size_bytes": 139470,
+    "status": "readable; company and fiscal year found"
+  },
+  {
+    "document_id": "msft-2027-q1-earnings",
+    "pages": null,
+    "size_bytes": 495293,
+    "status": "readable; company and fiscal year found"
+  }
+]

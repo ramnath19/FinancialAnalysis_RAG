@@ -1,0 +1,812 @@
+[
+  {
+    "ticker": "AAPL",
+    "company": "Apple Inc.",
+    "metric": "revenue",
+    "fiscal_year": 2024,
+    "value_usd": "391035000000",
+    "reported_value": "391,035",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "aapl-2025-annual",
+    "source_url": "https://s2.q4cdn.com/470004039/files/doc_financials/2025/ar/_10-K-2025-As-Filed.pdf",
+    "source_location": {
+      "pdf_page": 32
+    },
+    "source_block_id": "e2d8e36b4c883e7ac641f757",
+    "report_fiscal_year": 2025
+  },
+  {
+    "ticker": "AAPL",
+    "company": "Apple Inc.",
+    "metric": "revenue",
+    "fiscal_year": 2023,
+    "value_usd": "383285000000",
+    "reported_value": "383,285",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "aapl-2025-annual",
+    "source_url": "https://s2.q4cdn.com/470004039/files/doc_financials/2025/ar/_10-K-2025-As-Filed.pdf",
+    "source_location": {
+      "pdf_page": 32
+    },
+    "source_block_id": "e2d8e36b4c883e7ac641f757",
+    "report_fiscal_year": 2025
+  },
+  {
+    "ticker": "AAPL",
+    "company": "Apple Inc.",
+    "metric": "revenue",
+    "fiscal_year": 2022,
+    "value_usd": "394328000000",
+    "reported_value": "394,328",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "aapl-2024-annual",
+    "source_url": "https://s2.q4cdn.com/470004039/files/doc_financials/2024/q4/c87043b9-5d89-4717-9f49-c4f9663d0061.pdf",
+    "source_location": {
+      "pdf_page": 32
+    },
+    "source_block_id": "cf74748da5454d7a206a0e5a",
+    "report_fiscal_year": 2024
+  },
+  {
+    "ticker": "AAPL",
+    "company": "Apple Inc.",
+    "metric": "operating_income",
+    "fiscal_year": 2024,
+    "value_usd": "123216000000",
+    "reported_value": "123,216",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "aapl-2025-annual",
+    "source_url": "https://s2.q4cdn.com/470004039/files/doc_financials/2025/ar/_10-K-2025-As-Filed.pdf",
+    "source_location": {
+      "pdf_page": 32
+    },
+    "source_block_id": "e2d8e36b4c883e7ac641f757",
+    "report_fiscal_year": 2025
+  },
+  {
+    "ticker": "AAPL",
+    "company": "Apple Inc.",
+    "metric": "operating_income",
+    "fiscal_year": 2023,
+    "value_usd": "114301000000",
+    "reported_value": "114,301",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "aapl-2025-annual",
+    "source_url": "https://s2.q4cdn.com/470004039/files/doc_financials/2025/ar/_10-K-2025-As-Filed.pdf",
+    "source_location": {
+      "pdf_page": 32
+    },
+    "source_block_id": "e2d8e36b4c883e7ac641f757",
+    "report_fiscal_year": 2025
+  },
+  {
+    "ticker": "AAPL",
+    "company": "Apple Inc.",
+    "metric": "operating_income",
+    "fiscal_year": 2022,
+    "value_usd": "119437000000",
+    "reported_value": "119,437",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "aapl-2024-annual",
+    "source_url": "https://s2.q4cdn.com/470004039/files/doc_financials/2024/q4/c87043b9-5d89-4717-9f49-c4f9663d0061.pdf",
+    "source_location": {
+      "pdf_page": 32
+    },
+    "source_block_id": "cf74748da5454d7a206a0e5a",
+    "report_fiscal_year": 2024
+  },
+  {
+    "ticker": "AAPL",
+    "company": "Apple Inc.",
+    "metric": "net_income",
+    "fiscal_year": 2024,
+    "value_usd": "93736000000",
+    "reported_value": "93,736",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "aapl-2025-annual",
+    "source_url": "https://s2.q4cdn.com/470004039/files/doc_financials/2025/ar/_10-K-2025-As-Filed.pdf",
+    "source_location": {
+      "pdf_page": 32
+    },
+    "source_block_id": "e2d8e36b4c883e7ac641f757",
+    "report_fiscal_year": 2025
+  },
+  {
+    "ticker": "AAPL",
+    "company": "Apple Inc.",
+    "metric": "net_income",
+    "fiscal_year": 2023,
+    "value_usd": "96995000000",
+    "reported_value": "96,995",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "aapl-2025-annual",
+    "source_url": "https://s2.q4cdn.com/470004039/files/doc_financials/2025/ar/_10-K-2025-As-Filed.pdf",
+    "source_location": {
+      "pdf_page": 32
+    },
+    "source_block_id": "e2d8e36b4c883e7ac641f757",
+    "report_fiscal_year": 2025
+  },
+  {
+    "ticker": "AAPL",
+    "company": "Apple Inc.",
+    "metric": "net_income",
+    "fiscal_year": 2022,
+    "value_usd": "99803000000",
+    "reported_value": "99,803",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "aapl-2024-annual",
+    "source_url": "https://s2.q4cdn.com/470004039/files/doc_financials/2024/q4/c87043b9-5d89-4717-9f49-c4f9663d0061.pdf",
+    "source_location": {
+      "pdf_page": 32
+    },
+    "source_block_id": "cf74748da5454d7a206a0e5a",
+    "report_fiscal_year": 2024
+  },
+  {
+    "ticker": "AAPL",
+    "company": "Apple Inc.",
+    "metric": "revenue",
+    "fiscal_year": 2025,
+    "value_usd": "416161000000",
+    "reported_value": "416,161",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "aapl-2025-annual",
+    "source_url": "https://s2.q4cdn.com/470004039/files/doc_financials/2025/ar/_10-K-2025-As-Filed.pdf",
+    "source_location": {
+      "pdf_page": 32
+    },
+    "source_block_id": "e2d8e36b4c883e7ac641f757",
+    "report_fiscal_year": 2025
+  },
+  {
+    "ticker": "AAPL",
+    "company": "Apple Inc.",
+    "metric": "operating_income",
+    "fiscal_year": 2025,
+    "value_usd": "133050000000",
+    "reported_value": "133,050",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "aapl-2025-annual",
+    "source_url": "https://s2.q4cdn.com/470004039/files/doc_financials/2025/ar/_10-K-2025-As-Filed.pdf",
+    "source_location": {
+      "pdf_page": 32
+    },
+    "source_block_id": "e2d8e36b4c883e7ac641f757",
+    "report_fiscal_year": 2025
+  },
+  {
+    "ticker": "AAPL",
+    "company": "Apple Inc.",
+    "metric": "net_income",
+    "fiscal_year": 2025,
+    "value_usd": "112010000000",
+    "reported_value": "112,010",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "aapl-2025-annual",
+    "source_url": "https://s2.q4cdn.com/470004039/files/doc_financials/2025/ar/_10-K-2025-As-Filed.pdf",
+    "source_location": {
+      "pdf_page": 32
+    },
+    "source_block_id": "e2d8e36b4c883e7ac641f757",
+    "report_fiscal_year": 2025
+  },
+  {
+    "ticker": "GOOGL",
+    "company": "Alphabet Inc.",
+    "metric": "revenue",
+    "fiscal_year": 2022,
+    "value_usd": "282836000000",
+    "reported_value": "282,836",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "googl-2024-annual",
+    "source_url": "https://s206.q4cdn.com/479360582/files/doc_financials/2025/q4/2024-annual-report.pdf",
+    "source_location": {
+      "pdf_page": 58
+    },
+    "source_block_id": "d900bee2288444ebb49ae900",
+    "report_fiscal_year": 2024
+  },
+  {
+    "ticker": "GOOGL",
+    "company": "Alphabet Inc.",
+    "metric": "revenue",
+    "fiscal_year": 2023,
+    "value_usd": "307394000000",
+    "reported_value": "307,394",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "googl-2025-annual",
+    "source_url": "https://s206.q4cdn.com/479360582/files/doc_financials/2025/Alphabet-GOOG-_AR_2025_WO2_TRD_WR.pdf",
+    "source_location": {
+      "pdf_page": 56
+    },
+    "source_block_id": "cfb2b146a0d4d41c75460165",
+    "report_fiscal_year": 2025
+  },
+  {
+    "ticker": "GOOGL",
+    "company": "Alphabet Inc.",
+    "metric": "revenue",
+    "fiscal_year": 2024,
+    "value_usd": "350018000000",
+    "reported_value": "350,018",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "googl-2025-annual",
+    "source_url": "https://s206.q4cdn.com/479360582/files/doc_financials/2025/Alphabet-GOOG-_AR_2025_WO2_TRD_WR.pdf",
+    "source_location": {
+      "pdf_page": 56
+    },
+    "source_block_id": "cfb2b146a0d4d41c75460165",
+    "report_fiscal_year": 2025
+  },
+  {
+    "ticker": "GOOGL",
+    "company": "Alphabet Inc.",
+    "metric": "operating_income",
+    "fiscal_year": 2022,
+    "value_usd": "74842000000",
+    "reported_value": "74,842",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "googl-2024-annual",
+    "source_url": "https://s206.q4cdn.com/479360582/files/doc_financials/2025/q4/2024-annual-report.pdf",
+    "source_location": {
+      "pdf_page": 58
+    },
+    "source_block_id": "d900bee2288444ebb49ae900",
+    "report_fiscal_year": 2024
+  },
+  {
+    "ticker": "GOOGL",
+    "company": "Alphabet Inc.",
+    "metric": "operating_income",
+    "fiscal_year": 2023,
+    "value_usd": "84293000000",
+    "reported_value": "84,293",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "googl-2025-annual",
+    "source_url": "https://s206.q4cdn.com/479360582/files/doc_financials/2025/Alphabet-GOOG-_AR_2025_WO2_TRD_WR.pdf",
+    "source_location": {
+      "pdf_page": 56
+    },
+    "source_block_id": "cfb2b146a0d4d41c75460165",
+    "report_fiscal_year": 2025
+  },
+  {
+    "ticker": "GOOGL",
+    "company": "Alphabet Inc.",
+    "metric": "operating_income",
+    "fiscal_year": 2024,
+    "value_usd": "112390000000",
+    "reported_value": "112,390",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "googl-2025-annual",
+    "source_url": "https://s206.q4cdn.com/479360582/files/doc_financials/2025/Alphabet-GOOG-_AR_2025_WO2_TRD_WR.pdf",
+    "source_location": {
+      "pdf_page": 56
+    },
+    "source_block_id": "cfb2b146a0d4d41c75460165",
+    "report_fiscal_year": 2025
+  },
+  {
+    "ticker": "GOOGL",
+    "company": "Alphabet Inc.",
+    "metric": "net_income",
+    "fiscal_year": 2022,
+    "value_usd": "59972000000",
+    "reported_value": "59,972",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "googl-2024-annual",
+    "source_url": "https://s206.q4cdn.com/479360582/files/doc_financials/2025/q4/2024-annual-report.pdf",
+    "source_location": {
+      "pdf_page": 58
+    },
+    "source_block_id": "d900bee2288444ebb49ae900",
+    "report_fiscal_year": 2024
+  },
+  {
+    "ticker": "GOOGL",
+    "company": "Alphabet Inc.",
+    "metric": "net_income",
+    "fiscal_year": 2023,
+    "value_usd": "73795000000",
+    "reported_value": "73,795",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "googl-2025-annual",
+    "source_url": "https://s206.q4cdn.com/479360582/files/doc_financials/2025/Alphabet-GOOG-_AR_2025_WO2_TRD_WR.pdf",
+    "source_location": {
+      "pdf_page": 56
+    },
+    "source_block_id": "cfb2b146a0d4d41c75460165",
+    "report_fiscal_year": 2025
+  },
+  {
+    "ticker": "GOOGL",
+    "company": "Alphabet Inc.",
+    "metric": "net_income",
+    "fiscal_year": 2024,
+    "value_usd": "100118000000",
+    "reported_value": "100,118",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "googl-2025-annual",
+    "source_url": "https://s206.q4cdn.com/479360582/files/doc_financials/2025/Alphabet-GOOG-_AR_2025_WO2_TRD_WR.pdf",
+    "source_location": {
+      "pdf_page": 56
+    },
+    "source_block_id": "cfb2b146a0d4d41c75460165",
+    "report_fiscal_year": 2025
+  },
+  {
+    "ticker": "GOOGL",
+    "company": "Alphabet Inc.",
+    "metric": "revenue",
+    "fiscal_year": 2025,
+    "value_usd": "402836000000",
+    "reported_value": "402,836",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "googl-2025-annual",
+    "source_url": "https://s206.q4cdn.com/479360582/files/doc_financials/2025/Alphabet-GOOG-_AR_2025_WO2_TRD_WR.pdf",
+    "source_location": {
+      "pdf_page": 56
+    },
+    "source_block_id": "cfb2b146a0d4d41c75460165",
+    "report_fiscal_year": 2025
+  },
+  {
+    "ticker": "GOOGL",
+    "company": "Alphabet Inc.",
+    "metric": "operating_income",
+    "fiscal_year": 2025,
+    "value_usd": "129039000000",
+    "reported_value": "129,039",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "googl-2025-annual",
+    "source_url": "https://s206.q4cdn.com/479360582/files/doc_financials/2025/Alphabet-GOOG-_AR_2025_WO2_TRD_WR.pdf",
+    "source_location": {
+      "pdf_page": 56
+    },
+    "source_block_id": "cfb2b146a0d4d41c75460165",
+    "report_fiscal_year": 2025
+  },
+  {
+    "ticker": "GOOGL",
+    "company": "Alphabet Inc.",
+    "metric": "net_income",
+    "fiscal_year": 2025,
+    "value_usd": "132170000000",
+    "reported_value": "132,170",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "googl-2025-annual",
+    "source_url": "https://s206.q4cdn.com/479360582/files/doc_financials/2025/Alphabet-GOOG-_AR_2025_WO2_TRD_WR.pdf",
+    "source_location": {
+      "pdf_page": 56
+    },
+    "source_block_id": "cfb2b146a0d4d41c75460165",
+    "report_fiscal_year": 2025
+  },
+  {
+    "ticker": "JPM",
+    "company": "JPMorgan Chase & Co.",
+    "metric": "revenue",
+    "fiscal_year": 2024,
+    "value_usd": "177556000000",
+    "reported_value": "177,556",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "jpm-2025-annual",
+    "source_url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2025.pdf",
+    "source_location": {
+      "pdf_page": 2
+    },
+    "source_block_id": "079ee88d218e9287473e943c",
+    "report_fiscal_year": 2025
+  },
+  {
+    "ticker": "JPM",
+    "company": "JPMorgan Chase & Co.",
+    "metric": "revenue",
+    "fiscal_year": 2023,
+    "value_usd": "158104000000",
+    "reported_value": "158,104",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "jpm-2025-annual",
+    "source_url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2025.pdf",
+    "source_location": {
+      "pdf_page": 2
+    },
+    "source_block_id": "079ee88d218e9287473e943c",
+    "report_fiscal_year": 2025
+  },
+  {
+    "ticker": "JPM",
+    "company": "JPMorgan Chase & Co.",
+    "metric": "revenue",
+    "fiscal_year": 2022,
+    "value_usd": "128695000000",
+    "reported_value": "128,695",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "jpm-2024-annual",
+    "source_url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2024.pdf",
+    "source_location": {
+      "pdf_page": 2
+    },
+    "source_block_id": "c6a6de896c3593f577cb9014",
+    "report_fiscal_year": 2024
+  },
+  {
+    "ticker": "JPM",
+    "company": "JPMorgan Chase & Co.",
+    "metric": "net_income",
+    "fiscal_year": 2024,
+    "value_usd": "58471000000",
+    "reported_value": "58,471",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "jpm-2025-annual",
+    "source_url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2025.pdf",
+    "source_location": {
+      "pdf_page": 2
+    },
+    "source_block_id": "079ee88d218e9287473e943c",
+    "report_fiscal_year": 2025
+  },
+  {
+    "ticker": "JPM",
+    "company": "JPMorgan Chase & Co.",
+    "metric": "net_income",
+    "fiscal_year": 2023,
+    "value_usd": "49552000000",
+    "reported_value": "49,552",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "jpm-2025-annual",
+    "source_url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2025.pdf",
+    "source_location": {
+      "pdf_page": 2
+    },
+    "source_block_id": "079ee88d218e9287473e943c",
+    "report_fiscal_year": 2025
+  },
+  {
+    "ticker": "JPM",
+    "company": "JPMorgan Chase & Co.",
+    "metric": "net_income",
+    "fiscal_year": 2022,
+    "value_usd": "37676000000",
+    "reported_value": "37,676",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "jpm-2024-annual",
+    "source_url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2024.pdf",
+    "source_location": {
+      "pdf_page": 2
+    },
+    "source_block_id": "c6a6de896c3593f577cb9014",
+    "report_fiscal_year": 2024
+  },
+  {
+    "ticker": "JPM",
+    "company": "JPMorgan Chase & Co.",
+    "metric": "revenue",
+    "fiscal_year": 2025,
+    "value_usd": "182447000000",
+    "reported_value": "182,447",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "jpm-2025-annual",
+    "source_url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2025.pdf",
+    "source_location": {
+      "pdf_page": 2
+    },
+    "source_block_id": "079ee88d218e9287473e943c",
+    "report_fiscal_year": 2025
+  },
+  {
+    "ticker": "JPM",
+    "company": "JPMorgan Chase & Co.",
+    "metric": "net_income",
+    "fiscal_year": 2025,
+    "value_usd": "57048000000",
+    "reported_value": "57,048",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "jpm-2025-annual",
+    "source_url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2025.pdf",
+    "source_location": {
+      "pdf_page": 2
+    },
+    "source_block_id": "079ee88d218e9287473e943c",
+    "report_fiscal_year": 2025
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft Corporation",
+    "metric": "revenue",
+    "fiscal_year": 2024,
+    "value_usd": "247442000000",
+    "reported_value": "247,442",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "msft-2026-annual",
+    "source_url": "https://www.microsoft.com/investor/reports/ar26/index.html",
+    "source_location": {
+      "element_index": 5175,
+      "html_id": null,
+      "section": "NOTE 7 \u2014 BUSINESS COMBINATIONS"
+    },
+    "source_block_id": "708f97fda6ae145798e4a986",
+    "report_fiscal_year": 2026
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft Corporation",
+    "metric": "revenue",
+    "fiscal_year": 2023,
+    "value_usd": "219790000000",
+    "reported_value": "219,790",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "msft-2026-annual",
+    "source_url": "https://www.microsoft.com/investor/reports/ar26/index.html",
+    "source_location": {
+      "element_index": 5175,
+      "html_id": null,
+      "section": "NOTE 7 \u2014 BUSINESS COMBINATIONS"
+    },
+    "source_block_id": "708f97fda6ae145798e4a986",
+    "report_fiscal_year": 2026
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft Corporation",
+    "metric": "operating_income",
+    "fiscal_year": 2024,
+    "value_usd": "109433000000",
+    "reported_value": "109,433",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "msft-2026-annual",
+    "source_url": "https://www.microsoft.com/investor/reports/ar26/index.html",
+    "source_location": {
+      "element_index": 1708,
+      "html_id": null,
+      "section": "INCOME STATEMENTS"
+    },
+    "source_block_id": "6dc9fb743fea5ff5f59b2e12",
+    "report_fiscal_year": 2026
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft Corporation",
+    "metric": "operating_income",
+    "fiscal_year": 2023,
+    "value_usd": "88523000000",
+    "reported_value": "88,523",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "msft-2025-annual",
+    "source_url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "source_location": {
+      "element_index": 1587,
+      "html_id": null,
+      "section": "INCOME STATEMENTS"
+    },
+    "source_block_id": "c6cb4db6a265071c6d119167",
+    "report_fiscal_year": 2025
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft Corporation",
+    "metric": "net_income",
+    "fiscal_year": 2024,
+    "value_usd": "88136000000",
+    "reported_value": "88,136",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "msft-2026-annual",
+    "source_url": "https://www.microsoft.com/investor/reports/ar26/index.html",
+    "source_location": {
+      "element_index": 1260,
+      "html_id": null,
+      "section": "NON-GAAP FINANCIAL MEASURES"
+    },
+    "source_block_id": "21569ece1f2f8c8589af40b0",
+    "report_fiscal_year": 2026
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft Corporation",
+    "metric": "net_income",
+    "fiscal_year": 2023,
+    "value_usd": "71383000000",
+    "reported_value": "71,383",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "msft-2026-annual",
+    "source_url": "https://www.microsoft.com/investor/reports/ar26/index.html",
+    "source_location": {
+      "element_index": 5175,
+      "html_id": null,
+      "section": "NOTE 7 \u2014 BUSINESS COMBINATIONS"
+    },
+    "source_block_id": "708f97fda6ae145798e4a986",
+    "report_fiscal_year": 2026
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft Corporation",
+    "metric": "operating_income",
+    "fiscal_year": 2022,
+    "value_usd": "83383000000",
+    "reported_value": "83,383",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "msft-2024-annual",
+    "source_url": "https://www.microsoft.com/investor/reports/ar24/index.html",
+    "source_location": {
+      "element_index": 1829,
+      "html_id": null,
+      "section": "INCOME STATEMENTS"
+    },
+    "source_block_id": "9d082e865ba5235f7c950d38",
+    "report_fiscal_year": 2024
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft Corporation",
+    "metric": "net_income",
+    "fiscal_year": 2022,
+    "value_usd": "72738000000",
+    "reported_value": "72,738",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "msft-2024-annual",
+    "source_url": "https://www.microsoft.com/investor/reports/ar24/index.html",
+    "source_location": {
+      "element_index": 1829,
+      "html_id": null,
+      "section": "INCOME STATEMENTS"
+    },
+    "source_block_id": "9d082e865ba5235f7c950d38",
+    "report_fiscal_year": 2024
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft Corporation",
+    "metric": "revenue",
+    "fiscal_year": 2025,
+    "value_usd": "281724000000",
+    "reported_value": "281,724",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "msft-2026-annual",
+    "source_url": "https://www.microsoft.com/investor/reports/ar26/index.html",
+    "source_location": {
+      "element_index": 799,
+      "html_id": null,
+      "section": "SUMMARY RESULTS OF OPERATIONS"
+    },
+    "source_block_id": "2a7767bc5e2acb63796551e2",
+    "report_fiscal_year": 2026
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft Corporation",
+    "metric": "operating_income",
+    "fiscal_year": 2025,
+    "value_usd": "128528000000",
+    "reported_value": "128,528",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "msft-2026-annual",
+    "source_url": "https://www.microsoft.com/investor/reports/ar26/index.html",
+    "source_location": {
+      "element_index": 799,
+      "html_id": null,
+      "section": "SUMMARY RESULTS OF OPERATIONS"
+    },
+    "source_block_id": "2a7767bc5e2acb63796551e2",
+    "report_fiscal_year": 2026
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft Corporation",
+    "metric": "net_income",
+    "fiscal_year": 2025,
+    "value_usd": "101832000000",
+    "reported_value": "101,832",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "msft-2026-annual",
+    "source_url": "https://www.microsoft.com/investor/reports/ar26/index.html",
+    "source_location": {
+      "element_index": 799,
+      "html_id": null,
+      "section": "SUMMARY RESULTS OF OPERATIONS"
+    },
+    "source_block_id": "2a7767bc5e2acb63796551e2",
+    "report_fiscal_year": 2026
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft Corporation",
+    "metric": "revenue",
+    "fiscal_year": 2026,
+    "value_usd": "331839000000",
+    "reported_value": "331,839",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "msft-2026-annual",
+    "source_url": "https://www.microsoft.com/investor/reports/ar26/index.html",
+    "source_location": {
+      "element_index": 799,
+      "html_id": null,
+      "section": "SUMMARY RESULTS OF OPERATIONS"
+    },
+    "source_block_id": "2a7767bc5e2acb63796551e2",
+    "report_fiscal_year": 2026
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft Corporation",
+    "metric": "operating_income",
+    "fiscal_year": 2026,
+    "value_usd": "155237000000",
+    "reported_value": "155,237",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "msft-2026-annual",
+    "source_url": "https://www.microsoft.com/investor/reports/ar26/index.html",
+    "source_location": {
+      "element_index": 799,
+      "html_id": null,
+      "section": "SUMMARY RESULTS OF OPERATIONS"
+    },
+    "source_block_id": "2a7767bc5e2acb63796551e2",
+    "report_fiscal_year": 2026
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft Corporation",
+    "metric": "net_income",
+    "fiscal_year": 2026,
+    "value_usd": "133749000000",
+    "reported_value": "133,749",
+    "reported_unit": "USD millions",
+    "source_type": "annual_table",
+    "document_id": "msft-2026-annual",
+    "source_url": "https://www.microsoft.com/investor/reports/ar26/index.html",
+    "source_location": {
+      "element_index": 799,
+      "html_id": null,
+      "section": "SUMMARY RESULTS OF OPERATIONS"
+    },
+    "source_block_id": "2a7767bc5e2acb63796551e2",
+    "report_fiscal_year": 2026
+  }
+]

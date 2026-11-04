@@ -1,0 +1,101 @@
+{
+  "reference_document": "https://docs.google.com/document/d/1QyqbNCXxlwfuvqAkR74GSfs7rPfF4NaG/edit",
+  "reviewed_on": "2026-11-03",
+  "pipeline": [
+    "ingestion",
+    "structure_preserving_extraction",
+    "parallel_chunking",
+    "embedding",
+    "pinecone",
+    "retrieval",
+    "optional_cross_encoder_reranking",
+    "grounded_generation",
+    "evaluation"
+  ],
+  "selected_services": {
+    "embedding": "text-embedding-3-small",
+    "embedding_dimensions": 1536,
+    "vector_store": "pinecone",
+    "pinecone_mode": "documents",
+    "pinecone_text_field": "chunk_text",
+    "generator_provider": "nebius",
+    "generator_model": "google/gemma-3-27b-it",
+    "semantic_boundary_provider": "pinecone",
+    "semantic_boundary_model": "llama-text-embed-v2"
+  },
+  "reference_profile": {
+    "fixed": {
+      "implementation": "RecursiveCharacterTextSplitter",
+      "chunk_size_chars": 512,
+      "overlap_chars": 64
+    },
+    "semantic": {
+      "implementation": "SemanticChunker",
+      "breakpoint_type": "percentile",
+      "breakpoint_amount": 65
+    },
+    "retrieval": {
+      "candidate_k": 10,
+      "final_k": 3
+    },
+    "reranker": {
+      "implementation": "FlashRank",
+      "model": "ms-marco-MiniLM-L-12-v2"
+    },
+    "evaluation_metrics": [
+      "faithfulness",
+      "context_precision",
+      "context_recall"
+    ]
+  },
+  "current_differences": [
+    "Four-company corpus instead of Apple only.",
+    "Standalone Pinecone llama-text-embed-v2 computes semantic boundaries; integrated text-embedding-3-small computes retrieval embeddings for both strategies.",
+    "Source-preserving extraction is retained rather than regex-only document cleaning.",
+    "RAGAS uses Nebius Gemma as judge so no separate OpenAI key is required.",
+    "The four-way comparison adds fixed-size with reranking.",
+    "Reference semantic output is capped at 8000 characters; short HTML blocks and PDF page boundaries limit context."
+  ],
+  "evaluation_configurations": [
+    "fixed_without_reranking",
+    "semantic_without_reranking",
+    "fixed_with_reranking",
+    "semantic_with_reranking"
+  ],
+  "retain_improvements": [
+    "Preserve original documents and source fingerprints.",
+    "Keep numeric evidence, table years, units and citations.",
+    "Do not discard numeric-heavy chunks by alphabetic ratio.",
+    "Use development queries for tuning and held-out queries for evaluation.",
+    "Generate reports from actual saved runs; do not import reference scores.",
+    "Use versioned namespaces rather than automatic namespace deletion."
+  ],
+  "next_steps": [
+    "Implement separate reference chunking profile with LangChain splitters.",
+    "Run both chunkers and validate source coverage.",
+    "Verify Pinecone schema/connection and upload both namespaces.",
+    "Add retrieval and FlashRank reranking with top10 to top3.",
+    "Add Nebius generation with source citations and abstention.",
+    "Build source-reviewed evaluation questions across companies/years.",
+    "Run four configurations and RAGAS plus numeric/citation checks."
+  ],
+  "implementation_status": {
+    "reference_fixed_chunking": "completed; 12570 chunks across 13 sources",
+    "reference_semantic_chunking": "completed; 12277 chunks across 13 sources",
+    "pinecone": "both namespaces uploaded; 24847 indexed records verified",
+    "reranker": "FlashRank local model downloaded and used in live trials",
+    "generation": "live Pinecone retrieval, FlashRank and Nebius LCEL chain verified",
+    "evaluation": "56 completed trials across 14 development questions; 168 RAGAS metric scores saved; report generated"
+  },
+  "selected_default": {
+    "strategy": "fixed",
+    "rerank": true,
+    "basis": "highest observed context precision and recall on the small development set; not a held-out result"
+  },
+  "remaining_limitations": [
+    "Unverified separate table candidates remain excluded.",
+    "Source text can interleave multi-column PDF content.",
+    "Human audit and held-out benchmark are still needed.",
+    "Semantic parameter tuning and reranker truncation remain quality improvement work."
+  ]
+}

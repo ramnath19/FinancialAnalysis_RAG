@@ -1,0 +1,10 @@
+-r requirements-extraction.txt
+-r requirements-vector-store.txt
+langchain-text-splitters
+langchain-experimental==0.4.1
+langchain-community==0.4.1
+langchain-openai
+flashrank
+ragas
+scikit-learn
+langgraph

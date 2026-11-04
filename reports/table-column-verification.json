@@ -1,0 +1,111 @@
+[
+  {
+    "pdf_page": 206,
+    "column_years": [
+      "2024",
+      "2023",
+      "2022"
+    ],
+    "label": "Total net revenue",
+    "expected": [
+      "177,556",
+      "158,104",
+      "128,695"
+    ],
+    "actual": [
+      [
+        "Total net revenue",
+        "177,556",
+        "158,104",
+        "128,695"
+      ]
+    ],
+    "passed": true
+  },
+  {
+    "pdf_page": 206,
+    "column_years": [
+      "2024",
+      "2023",
+      "2022"
+    ],
+    "label": "Net income",
+    "expected": [
+      "58,471",
+      "49,552",
+      "37,676"
+    ],
+    "actual": [
+      [
+        "Net income",
+        "58,471",
+        "49,552",
+        "37,676"
+      ]
+    ],
+    "passed": true
+  },
+  {
+    "pdf_page": 206,
+    "column_years": [
+      "2024",
+      "2023",
+      "2022"
+    ],
+    "label": "Investment securities losses",
+    "expected": [
+      "(1,021)",
+      "(3,180)",
+      "(2,380)"
+    ],
+    "actual": [
+      [
+        "Investment securities losses",
+        "(1,021)",
+        "(3,180)",
+        "(2,380)"
+      ]
+    ],
+    "passed": true
+  },
+  {
+    "pdf_page": 208,
+    "column_years": [
+      "2024",
+      "2023"
+    ],
+    "label": "Total assets(a)",
+    "expected": [
+      "4,002,814",
+      "3,875,393"
+    ],
+    "actual": [
+      [
+        "Total assets(a)",
+        "4,002,814",
+        "3,875,393"
+      ]
+    ],
+    "passed": true
+  },
+  {
+    "pdf_page": 208,
+    "column_years": [
+      "2024",
+      "2023"
+    ],
+    "label": "Allowance for loan losses",
+    "expected": [
+      "(24,345)",
+      "(22,420)"
+    ],
+    "actual": [
+      [
+        "Allowance for loan losses",
+        "(24,345)",
+        "(22,420)"
+      ]
+    ],
+    "passed": true
+  }
+]

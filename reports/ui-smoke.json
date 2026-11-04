@@ -1,0 +1,217 @@
+{
+  "question": "What was JPMorgan Chase net income in 2024?",
+  "strategy": "fixed",
+  "reranking": true,
+  "sources": [
+    {
+      "id": "660026fc02791638898bb22e",
+      "text": "JPMorgan Chase & Co.\n270 Park Avenue, New York, NY 10017-2070\nNYSE symbol: JPM\nwww.jpmorganchase.com\nJPMORGANCHASE REPORTS THIRD-QUARTER 2026 NET INCOME OF $15.3 BILLION ($5.57 PER SHARE),\nNET INCOME OF $15.8 BILLION ($5.75 PER SHARE) EXCLUDING A SIGNIFICANT ITEM\nTHIRD-QUARTER 2026 RESULTS 1\nCET1 Capital Ratios3 Std. RWA3 $2.2T\n17%\nROE\nStd. 13.9% | Adv. 14.1% Cash and marketable securities4 $1.5T\n20%\nROTCE2\nTotal Loss-Absorbing Capacity3 $599B Average loans $1.6T",
+      "score": 14.344601711224197,
+      "metadata": {
+        "block_id": "954b94eb22bebb9ca5296c53",
+        "document_id": "jpm-2026-q3-earnings",
+        "company": "JPMorgan Chase & Co.",
+        "ticker": "JPM",
+        "report_fiscal_year": 2026,
+        "report_period_end": "2026-09-30",
+        "document_type": "earnings_release",
+        "source_url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2026/3rd-quarter/6c1f8114-1be4-4174-8292-f75bbb59bc21.pdf",
+        "source_sha256": "0be11f13669fa1f6696bf5b5b022fde84523f64952ecd16989fca9588a8e971c",
+        "chunk_id": "660026fc02791638898bb22e",
+        "source_block_id": "954b94eb22bebb9ca5296c53",
+        "strategy": "fixed",
+        "profile": "reference-v1",
+        "start_char": 0,
+        "end_char": 467,
+        "exact_source_span": true,
+        "location_json": "{\"pdf_page\": 1}",
+        "chunk_text": "JPMorgan Chase & Co.\n270 Park Avenue, New York, NY 10017-2070\nNYSE symbol: JPM\nwww.jpmorganchase.com\nJPMORGANCHASE REPORTS THIRD-QUARTER 2026 NET INCOME OF $15.3 BILLION ($5.57 PER SHARE),\nNET INCOME OF $15.8 BILLION ($5.75 PER SHARE) EXCLUDING A SIGNIFICANT ITEM\nTHIRD-QUARTER 2026 RESULTS 1\nCET1 Capital Ratios3 Std. RWA3 $2.2T\n17%\nROE\nStd. 13.9% | Adv. 14.1% Cash and marketable securities4 $1.5T\n20%\nROTCE2\nTotal Loss-Absorbing Capacity3 $599B Average loans $1.6T"
+      },
+      "fusion_score": 0.031024531024531024,
+      "rerank_score": 0.9994195699691772,
+      "citation_id": "S1",
+      "context_text": "[S1] JPMorgan Chase & Co. Report year: 2026 Location: {\"pdf_page\": 1}\nJPMorgan Chase & Co.\n270 Park Avenue, New York, NY 10017-2070\nNYSE symbol: JPM\nwww.jpmorganchase.com\nJPMORGANCHASE REPORTS THIRD-QUARTER 2026 NET INCOME OF $15.3 BILLION ($5.57 PER SHARE),\nNET INCOME OF $15.8 BILLION ($5.75 PER SHARE) EXCLUDING A SIGNIFICANT ITEM\nTHIRD-QUARTER 2026 RESULTS 1\nCET1 Capital Ratios3 Std. RWA3 $2.2T\n17%\nROE\nStd. 13.9% | Adv. 14.1% Cash and marketable securities4 $1.5T\n20%\nROTCE2\nTotal Loss-Absorbing Capacity3 $599B Average loans $1.6T"
+    },
+    {
+      "id": "06eebf022d36d29aef8e690e",
+      "text": "Net income $ 58,471 $ 49,552 $ 37,676\nOther comprehensive income/\n(loss), net (2,013) 6,898 (17,257)\nComprehensive income $ 56,458 $ 56,450 $ 20,419\nJPMorgan Chase & Co./2024 Form 10-K 317",
+      "score": 16.286940362784954,
+      "metadata": {
+        "block_id": "c1674ee22db42cfdddc748f6",
+        "document_id": "jpm-2024-annual",
+        "company": "JPMorgan Chase & Co.",
+        "ticker": "JPM",
+        "report_fiscal_year": 2024,
+        "report_period_end": "2024-12-31",
+        "document_type": "annual_report",
+        "source_url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2024.pdf",
+        "source_sha256": "78443e60b3188a70673ca7042d0bf9e4dc596d04072af729242886d22bd0a4e3",
+        "chunk_id": "06eebf022d36d29aef8e690e",
+        "source_block_id": "c1674ee22db42cfdddc748f6",
+        "strategy": "fixed",
+        "profile": "reference-v1",
+        "start_char": 1787,
+        "end_char": 1975,
+        "exact_source_span": true,
+        "location_json": "{\"pdf_page\": 351}",
+        "chunk_text": "Net income $ 58,471 $ 49,552 $ 37,676\nOther comprehensive income/\n(loss), net (2,013) 6,898 (17,257)\nComprehensive income $ 56,458 $ 56,450 $ 20,419\nJPMorgan Chase & Co./2024 Form 10-K 317"
+      },
+      "fusion_score": 0.031544957774465976,
+      "rerank_score": 0.9979619979858398,
+      "citation_id": "S2",
+      "context_text": "[S2] JPMorgan Chase & Co. Report year: 2024 Location: {\"pdf_page\": 351}\nNet income $ 58,471 $ 49,552 $ 37,676\nOther comprehensive income/\n(loss), net (2,013) 6,898 (17,257)\nComprehensive income $ 56,458 $ 56,450 $ 20,419\nJPMorgan Chase & Co./2024 Form 10-K 317"
+    },
+    {
+      "id": "7a9e67ea20daf97350e55fa8",
+      "text": "(in millions) 2023 2022\nNoninterest revenue $ 65,816 $ 66,510\nNet interest income 90,856 71,005\nNet income 48,665 41,089\nJPMorgan Chase & Co./2024 Form 10-K 321",
+      "score": 16.214135394007116,
+      "metadata": {
+        "block_id": "448c598789fc284b3a46705c",
+        "document_id": "jpm-2024-annual",
+        "company": "JPMorgan Chase & Co.",
+        "ticker": "JPM",
+        "report_fiscal_year": 2024,
+        "report_period_end": "2024-12-31",
+        "document_type": "annual_report",
+        "source_url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2024.pdf",
+        "source_sha256": "78443e60b3188a70673ca7042d0bf9e4dc596d04072af729242886d22bd0a4e3",
+        "chunk_id": "7a9e67ea20daf97350e55fa8",
+        "source_block_id": "448c598789fc284b3a46705c",
+        "strategy": "fixed",
+        "profile": "reference-v1",
+        "start_char": 3184,
+        "end_char": 3344,
+        "exact_source_span": true,
+        "location_json": "{\"pdf_page\": 355}",
+        "chunk_text": "(in millions) 2023 2022\nNoninterest revenue $ 65,816 $ 66,510\nNet interest income 90,856 71,005\nNet income 48,665 41,089\nJPMorgan Chase & Co./2024 Form 10-K 321"
+      },
+      "fusion_score": 0.03252247488101534,
+      "rerank_score": 0.9976396560668945,
+      "citation_id": "S3",
+      "context_text": "[S3] JPMorgan Chase & Co. Report year: 2024 Location: {\"pdf_page\": 355}\n(in millions) 2023 2022\nNoninterest revenue $ 65,816 $ 66,510\nNet interest income 90,856 71,005\nNet income 48,665 41,089\nJPMorgan Chase & Co./2024 Form 10-K 321"
+    },
+    {
+      "id": "551114f638a732c9ccb28497",
+      "text": "RSUs and SARs 5.1 4.5 4.2\nTotal weighted-average diluted\nshares outstanding 2,879.0 2,943.1 2,970.0\nNet income per share $ 19.75 $ 16.23 $ 12.09\n294 JPMorgan Chase & Co./2024 Form 10-K",
+      "score": 13.571516732721932,
+      "metadata": {
+        "block_id": "6b0d33b8f3d03a7cfbaebe48",
+        "document_id": "jpm-2024-annual",
+        "company": "JPMorgan Chase & Co.",
+        "ticker": "JPM",
+        "report_fiscal_year": 2024,
+        "report_period_end": "2024-12-31",
+        "document_type": "annual_report",
+        "source_url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2024.pdf",
+        "source_sha256": "78443e60b3188a70673ca7042d0bf9e4dc596d04072af729242886d22bd0a4e3",
+        "chunk_id": "551114f638a732c9ccb28497",
+        "source_block_id": "6b0d33b8f3d03a7cfbaebe48",
+        "strategy": "fixed",
+        "profile": "reference-v1",
+        "start_char": 2254,
+        "end_char": 2438,
+        "exact_source_span": true,
+        "location_json": "{\"pdf_page\": 328}",
+        "chunk_text": "RSUs and SARs 5.1 4.5 4.2\nTotal weighted-average diluted\nshares outstanding 2,879.0 2,943.1 2,970.0\nNet income per share $ 19.75 $ 16.23 $ 12.09\n294 JPMorgan Chase & Co./2024 Form 10-K"
+      },
+      "fusion_score": 0.02369989165763814,
+      "rerank_score": 0.9951120018959045,
+      "citation_id": "S4",
+      "context_text": "[S4] JPMorgan Chase & Co. Report year: 2024 Location: {\"pdf_page\": 328}\nRSUs and SARs 5.1 4.5 4.2\nTotal weighted-average diluted\nshares outstanding 2,879.0 2,943.1 2,970.0\nNet income per share $ 19.75 $ 16.23 $ 12.09\n294 JPMorgan Chase & Co./2024 Form 10-K"
+    },
+    {
+      "id": "2ad3db1ee7cb19cdd4ef3696",
+      "text": "Total noninterest expense 35,353 33,972 32,069\nIncome before income tax\nexpense 33,999 28,290 25,140\nIncome tax expense 9,153 8,018 6,002\nNet income $ 24,846 $ 20,272 $ 19,138\nJPMorgan Chase & Co./2024 Form 10-K 77",
+      "score": 14.447437087820829,
+      "metadata": {
+        "block_id": "c16821daa97eec298f93288d",
+        "document_id": "jpm-2024-annual",
+        "company": "JPMorgan Chase & Co.",
+        "ticker": "JPM",
+        "report_fiscal_year": 2024,
+        "report_period_end": "2024-12-31",
+        "document_type": "annual_report",
+        "source_url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2024.pdf",
+        "source_sha256": "78443e60b3188a70673ca7042d0bf9e4dc596d04072af729242886d22bd0a4e3",
+        "chunk_id": "2ad3db1ee7cb19cdd4ef3696",
+        "source_block_id": "c16821daa97eec298f93288d",
+        "strategy": "fixed",
+        "profile": "reference-v1",
+        "start_char": 4093,
+        "end_char": 4307,
+        "exact_source_span": true,
+        "location_json": "{\"pdf_page\": 111}",
+        "chunk_text": "Total noninterest expense 35,353 33,972 32,069\nIncome before income tax\nexpense 33,999 28,290 25,140\nIncome tax expense 9,153 8,018 6,002\nNet income $ 24,846 $ 20,272 $ 19,138\nJPMorgan Chase & Co./2024 Form 10-K 77"
+      },
+      "fusion_score": 0.027884615384615386,
+      "rerank_score": 0.9949567914009094,
+      "citation_id": "S5",
+      "context_text": "[S5] JPMorgan Chase & Co. Report year: 2024 Location: {\"pdf_page\": 111}\nTotal noninterest expense 35,353 33,972 32,069\nIncome before income tax\nexpense 33,999 28,290 25,140\nIncome tax expense 9,153 8,018 6,002\nNet income $ 24,846 $ 20,272 $ 19,138\nJPMorgan Chase & Co./2024 Form 10-K 77"
+    },
+    {
+      "id": "c6eef8827a8b0830c5b3d184",
+      "text": "Change in net interest income $ 520 $ 2,793 $ 3,313 $ (2,913) $ 25,516 $ 22,603\n326 JPMorgan Chase & Co./2024 Form 10-K",
+      "score": 15.805085677032805,
+      "metadata": {
+        "block_id": "73ebf98af55a3d0cd6e461e0",
+        "document_id": "jpm-2024-annual",
+        "company": "JPMorgan Chase & Co.",
+        "ticker": "JPM",
+        "report_fiscal_year": 2024,
+        "report_period_end": "2024-12-31",
+        "document_type": "annual_report",
+        "source_url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2024.pdf",
+        "source_sha256": "78443e60b3188a70673ca7042d0bf9e4dc596d04072af729242886d22bd0a4e3",
+        "chunk_id": "c6eef8827a8b0830c5b3d184",
+        "source_block_id": "73ebf98af55a3d0cd6e461e0",
+        "strategy": "fixed",
+        "profile": "reference-v1",
+        "start_char": 3107,
+        "end_char": 3226,
+        "exact_source_span": true,
+        "location_json": "{\"pdf_page\": 360}",
+        "chunk_text": "Change in net interest income $ 520 $ 2,793 $ 3,313 $ (2,913) $ 25,516 $ 22,603\n326 JPMorgan Chase & Co./2024 Form 10-K"
+      },
+      "fusion_score": 0.026862026862026864,
+      "rerank_score": 0.9949363470077515,
+      "citation_id": "S6",
+      "context_text": "[S6] JPMorgan Chase & Co. Report year: 2024 Location: {\"pdf_page\": 360}\nChange in net interest income $ 520 $ 2,793 $ 3,313 $ (2,913) $ 25,516 $ 22,603\n326 JPMorgan Chase & Co./2024 Form 10-K"
+    }
+  ],
+  "trace": [
+    {
+      "step": "Scope",
+      "detail": "JPM"
+    },
+    {
+      "step": "Retrieve",
+      "detail": "6 passages; evidence reserved for each company"
+    },
+    {
+      "step": "Generate",
+      "detail": "Nebius synthesis"
+    },
+    {
+      "step": "Verify",
+      "detail": "Literal numeric support passed"
+    }
+  ],
+  "context": {
+    "tickers": [
+      "JPM"
+    ],
+    "year": "2024",
+    "topic": "What was JPMorgan Chase net income in 2024?"
+  },
+  "understood_as": "What was JPMorgan Chase net income in 2024? Companies: JPM",
+  "backend": "Pinecone dense embeddings",
+  "verification": {
+    "passed": true,
+    "checked_numbers": 2,
+    "issues": [],
+    "scope": "Literal numeric support only; review units, fiscal columns and meaning in the original report."
+  },
+  "answer": "JPMorgan Chase net income for 2024 was $58,471 million [S2]. The currency is not specified, but the units are in millions of dollars [S3, S5].",
+  "answer_status": "answered",
+  "elapsed_seconds": 4.926678167001228
+}
