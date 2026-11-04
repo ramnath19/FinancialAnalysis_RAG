@@ -12,3 +12,12 @@ data/normalized/
 data/embedding-cache/
 logs/
 .ruff_cache/
+
+# Local workstation and runtime artifacts
+.DS_Store
+.vscode/
+data/session/
+
+# Local environment variants; keep the shareable configuration template
+.env.*
+!.env.example
