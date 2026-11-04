@@ -382,10 +382,4 @@ reports/               Comparison reports, saved metrics and regression artifact
 logs/                  Rotating local JSON diagnostics
 ```
 
-## References
 
-- [Reviewed architecture document](https://docs.google.com/document/d/1QyqbNCXxlwfuvqAkR74GSfs7rPfF4NaG/edit)
-- [Original Gen Academy kit repository](https://github.com/The-Gen-Academy/2B-Financial-RAG-Jev)
-- [Market Buddy scenario reference](https://github.com/vtati/market-buddy-rag)
-
-No reference notebook code was copied into this implementation. The bundled chunking profile reproduces the documented algorithms/settings with explicit adaptations; reported results use this project's documents, queries and saved runs. Reference repositories' claims are not substituted for our measurements.
